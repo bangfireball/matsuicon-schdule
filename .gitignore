@@ -1,0 +1,26 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# Java / logs
+*.log
+
+# Node / web
+node_modules/
+
+# Signing / secrets
+*.jks
+*.keystore
+key.properties
+
+# Scraped pages may include third-party API keys
+eventeny_page.html

@@ -1,0 +1,766 @@
+# MATSURICON 2026 Schedule
+
+Source: https://www.eventeny.com/share/?s=cvRwNvVY23176
+
+Timezone: America/New_York
+
+Sessions: 439
+
+
+## Thu, September 3, 2026
+
+- **Registration** — 7:30 PM–10:00 PM | Nationwide | Registration
+- **Fabula Ultima: Corpo Approved (Fabula Ultima)** — 8:00 PM–1:00 AM | Morrow | RPG | Gaming
+- **Matsuri’s Cracker Barrel Has Fallen (Cracker Barrel Has Fallen)** — 8:00 PM–12:00 AM | Morrow | RPG | Gaming
+- **Miniature Paint and Take** — 8:00 PM–12:00 AM | Morrow | RPG | Workshop; Gaming
+- **Entering the World of Shoujo** — 9:00 PM–10:00 PM | A114-115 | Panel 3
+  - Shoujo manga and anime are often overlooked as flowery or lacking in substance, but that couldn’t be further from the truth. This deep dive into the demographic will explain what it is,the common tropes & themes, as well as what's out there to explore.
+- **Guess That OST** — 9:00 PM–10:00 PM | A120-122 | Panels 4
+  - You've guessed opening and ending songs plenty of times before... Now can you guess that OST? Participants will listen to iconic anime soundtracks and race to be the first to identify which series they’re from. From nostalgic classics to modern hits, every round will challenge your memory and speed!
+- **Cosplay 201: Level up your making!** — 9:00 PM–10:00 PM | A123-124 | Panels 5
+  - We often talk about how to start cosplaying, and many talks and workshops focus on deep-dive advanced topic. But how do you get from one phase to the other; how do you level up your making? Let's talk about how to take your making from beginner to intermediate! Tips include those related to craftsmanship, competition, social media, photography, and more.
+- **Crokinole Learn to Play** — 9:00 PM–11:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+- **Free to Play** — 9:00 PM–12:00 AM | Taft C/D | Tabletop Gaming | Gaming; Free to Play
+- **Free to Play** — 9:00 PM–12:00 AM | Windows | CCG | Gaming; Free to Play
+- **Pre-Con Pajama Party** — 9:00 PM–12:00 AM | Windows | CCG | Event; Meetup; Interactive
+  - Come join us Thursday evening in your coziest or nerdiest pajamas for a pre-con party with the collectible card games team! Chill music, badge ribbon trades, coloring pages, a small charity raffle, and lots of fun card games to play or even try something new.
+- **18+ Karaoke** — 9:30 PM–12:00 AM | A110-113 | Panels 2 | 18+
+- **Chocobo's Crystal Hunt Learn to Play** — 10:00 PM–12:00 AM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+- **Star Fluxx Learn to Play** — 10:00 PM–12:00 AM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+- **A Ghost in Gotham: Danny Phantom x DC crossover fanfiction** — 10:15 PM–11:00 PM | A114-115 | Panel 3
+  - Bats, Birds, and - Ghosts?! Are you ready to learn about the best crossover you’ve never heard of? Join the discussion of common themes, tropes, and ships presented by someone who has allowed this crossover to take over their (after)life, and maybe convince you too!
+- **Down Memory Lane: Naruto** — 10:15 PM–11:15 PM | A120-122 | Panels 4
+  - Do you feel like an activated sleeper agent when you hear any song from FLOW? Do you remember jokes like "Tobi is a good boy"? If so, I think it’s time to take a trip down memory lane with us for the beloved anime Naruto! Here, we’ll reminisce about everything surrounding the show, its history, and its best (and worst) fandom moments.
+- **Tmnt- the history of The Teenage mutant ninja turtles** — 10:15 PM–11:15 PM | A123-124 | Panels 5
+  - Are you a fan of Teenage mutant ninja turtles? Do you know its history? How did it come to be? Do you know all of the shows, movies and comics? Whether you're a fan of the movies, shoes, video games or comics we are going to take a deep dive into all things TMNT!!!
+
+## Fri, September 4, 2026
+
+- **Ballroom Gala Crash Course: Cha-Cha, Rumba, East Coast Swing** — 9:00 AM–10:00 AM | Fairfield | Workshop | Interactive
+  - Cha-Cha, Rumba, and Swing will help YOU be the star at ball. This 60 minute panel is designed for people who want to try ballroom for the first time or who need a refresher in preparation for the Formal Ballroom Gala! This panel will cover basic patterns in the main spot dances, etiquette, and some lead/follow tips. No Partner required.
+- **Registration** — 9:00 AM–9:00 PM | Nationwide | Registration
+- **Ballroom Gala Crash Course: Waltz, Tango, Foxtrot** — 10:00 AM–11:00 AM | Fairfield | Workshop | Interactive
+  - Waltz, Tango, and Foxtrot are the stars of this panel! This 60 minute panel is designed for people who want to try ballroom for the first time or who need a refresher in preparation for the Formal Ballroom Gala! This panel will cover basic patterns in the main traveling dances, etiquette, and some lead/follow tips. No Partner required.
+- **Adventure Room** — 10:00 AM–3:00 PM | Garfield | Escape Room | Interactive
+  - Step into a living fantasy world where your choices, abilities, and teamwork shape the story. In ARC Fantasy, you create a character with unique powers that determine how you explore, solve puzzles, and uncover secrets." Smartphones are used to access character abilities. Each game last one hour per group and is free to badge holders. Sign up using the link below or sign up by scanning the QR code at Garfield. Link to sign up page: https://ti.to/experimental-gamer/arcfantasy-matusircon-2026 Note: Not ready to book? Visit the FREE Tavern located in Garfield to try it out first.
+- **Manga Lounge** — 10:00 AM–6:00 PM | Madison | Manga Lounge | Interactive
+  - With more than 4,000 titles, a massive selection of figures and statues, and even more to discover, Otaku Manga Lounge is a destination for anime and manga fans. Stop by the Manga Library to read from more than 1,000 titles, then check them out in the Exhibitor Hall.nBrowse a shelf. Open a volume. Find the series you cannot put down.nnWhether you are shopping, collecting, or settling in to read, there is plenty to explore.
+- **RPG Paint-and-Take** — 10:00 AM–10:00 PM | Morrow | RPG
+  - Choose a resin-printed miniature, learn alongside our paint tutors, and leave with a finished hero ready for your next campaign.
+- **Matsuri Ink** — 10:00 AM–12:00 AM | Ohio Board Room | Matsuri Ink | Interactive
+  - Whether you are a tattoo enthusiast or simply curious about the artistry, Matsuri Ink is your chance to explore remarkable designs, meet talented artists, and find inspiration for your own creative journey.nOriginal art meets personal expression.nnMatsuricon has partnered with the artists of Ohayo Tattoo to bring a collection of one-of-a-kind styles to the convention.
+- **Opening Ceremonies** — 10:00 AM–11:00 AM | Union Ballroom | Main Events 1 | Event
+  - Grab your best tech gear and your brightest neon, we welcome you to join us as we discuss about all the fun and exciting things we have in store for the attendees for 2026!
+- **One Piece Learn To Play** — 10:00 AM–12:00 PM | Windows | CCG | Gaming; Learn to Play
+- **"Planning a Themed Event on a Budget"Planning a Themed Event on a Budget** — 10:45 AM–11:45 AM | A114-115 | Panels 3
+  - This panel is designed to help anyone navigate planning a party of any size. We will divulge tips and tricks on how to save money and still capture whatever theme you want for your event. Learn how to plan for anything from holiday parties to weddings!
+- **KPOP Random Dance Play! Hosted by ECLIPSE** — 10:45 AM–11:45 AM | McKinley | Movement Room
+  - So us your best moves at our KPOP Random Dance Play Panel! Our RDP has a MULTITUDE of different songs, artists, and KPOP generations for everyone to enjoy! All KPOP fans are invited to participate!
+- **What to Expect in a Cosplay Competition!** — 11:00 AM–12:00 PM | A120-122 | Panels 4
+  - Do you have questions about how the Cosplay Masquerade works? Are you nervous about Judging or what to expect at the line up? Come speak with our judges and discuss the ins and outs of cosplay competitions!
+- **Lair games - a ROTTMNT panel** — 11:00 AM–12:00 PM | A123-124 | Panels 5
+  - Are you a fan of rise of the teenage mutant ninja turtles? Do you have what it takes to compete in the Lair Games? Prove you have what it takes to beat our favorite band of turtle ninjas.
+- **Go Room** — 11:00 AM–5:00 PM | A125 | Go Room | Interactive
+  - Come Play GO!!nGo is an ancient two-player abstract strategy board game where the main goal is to control more territory than your opponent by placing stones on a grid.
+- **Drawing Anime Food: Color, Light & Texture** — 11:00 AM–12:00 PM | Delaware | Panels 1 | Partner Panel
+  - Ever wonder why anime food looks so good? Learn the basics of illustrating your favorite dishes digitally, from simple shapes and textures to color, lighting, and those tiny details that make food come alive.
+- **Photo Arena** — 11:00 AM–6:00 PM | Eisenman | Photo Arena | Interactive
+- **Exhibit Hall** — 11:00 AM–6:00 PM | Exhibit Hall | Exhibit Hall
+- **Line Dance for Nerds** — 11:00 AM–12:00 PM | Fairfield | Workshop | Interactive
+  - Try some fun and nerdy line dances! Take these line dances to do at home or to a party with friends. No partner needed. Want more opportunity to dance the songs from class? Come to the Friday night Formal Gala!
+- **Monster Hunter: Crimson Wings** — 11:00 AM–3:00 PM | Morrow | RPG
+  - : Prepare with your team for your high rank promotion exam, against the mighty Rathalos.
+- **Neon Odyssey: Where You'll Find Me (D&D 5e: Neon Odyssey)** — 11:00 AM–3:00 PM | Morrow | RPG
+  - Join me on this Neon Odyssey as we run around with some of the playtest material for Legedend's Of Avantris' latest upcoming set of books!
+- **The Pokemon Gameshow!** — 11:00 AM–12:30 PM | Regency Ballroom | Main Events 2
+  - Welcome to the pokemon gameshow where contestants will test their pokemon knowledge! They will have to guess pokemon names, types, gym leaders, rivals, and maybe even regions plus tons more. If a contestant wins they will get fabulous prizes even a pokemon plushie. So join an elite four member and their fabulous pokemon assistant to test your pokemon knowledge and be the best their ever was in the pokemon game show!
+- **Convention Foam Fighting (CFF)** — 11:00 AM–3:00 PM | Taft A/B | CFF | Interactive
+  - Step into a live fantasy battle where foam weapons, fast-moving action, and beginner-friendly coaching turn every attendee into part of the adventure.nConvention Foam Fighting is a live-action entertainment group that combines the excitement of fantasy combat with accessible, safety-minded gameplay.nParticipants play at no additional cost beyond their convention badge, and every piece of equipment is provided so newcomers can step straight into the action.nnEntertainers and coaches keep the experience welcoming, energetic, and easy to learn while building a community around the shared thrill of an unforgettable battle.
+- **Mahjong** — 11:00 AM–12:00 AM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+- **Tales of the Red Dragon Inn Learn to Play** — 11:00 AM–2:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - Put down your flagons and strap on your swords, it’s time to delve through some dungeons in Tales from the Red Dragon Inn! In Tales you will take on the role of one of the famous characters from The Red Dragon Inn series of games as they tackle their day job of being big damn heroes. The multi-scenario campaign pits the players against game-controlled enemies tailor-made for each illustrated fold-out game map. Each scenario will take you to a new map, with new foes and even a few tricky puzzles to solve. You'll need to work together with the other players by equipping hero and item cards to support your allies who have their own unique abilities and roles. 1-4 players
+- **Beyblade Plastic Generation Tournament MTG Modern Tournament** — 11:00 AM–1:00 PM | Windows | CCG | Gaming; Tournament
+- **Pokemon Standard Tournament** — 11:00 AM–12:00 PM | Windows | CCG | Gaming; Tournament
+- **Ribbons 101** — 11:15 AM–12:15 PM | A110-113 | Panels 2
+  - Have you wondered about the ribbons you see at Matsuricon? Do you want to join in on passing out ribbons but don't know where to start? Join us as we talk about Ribbon Collecting At Matsuricon. From how you can get ribbons over the weekend, to how to join in the large group order, to how to plan for ribbons at next year's Matsuricon, we'll answer all your questions. Whether you're just starting out in collecting ribbons, or you're a seasoned ribbon dealer, come join your fellow ribbon enthusiasts as we share in our love of ribbons. And of course...there's always a ribbon to earn for attending.
+- **Anime Elevator Pitch with Sungwon Cho** — 11:30 AM–12:30 PM | Union Ballroom | Main Events 1 | Guest Panel
+  - Think your favorite anime deserves a spot on SungWon’s watchlist? You’ve got just 60 seconds to convince him why. In this fun and fast-paced panel, attendees will take turns pitching their most beloved series – no pressure! Make him laugh, surprise him, pull at his heartstrings, or just bring the hype. Will you make a strong enough case to win his interest? Come prepared, come passionate, and let the anime showdown begin!
+- **Oops! I'm a Soda Influencer!?** — 12:00 PM–1:00 PM | A114-115 | Panels 3
+  - Come see food and beverage writer Griffin Parker explain how he tricked over 100,000 people into trusting him as a journalist. Let's all watch a man who's lost control of his life make jokes about beverages while he clicks through a Powerpoint. Planned topics of conversation may include brief discussion of bodily functions, alcohol, and a little fruity language.
+- **Cosplay Repair** — 12:00 PM–6:00 PM | Grant & Harding | Cosplay Repair
+  - A snapped strap or loose seam does not have to end your con day. Our volunteer makers have the tools, supplies, and know-how to help with light costume repairs.nnWith ample supplies and plenty of know-how, the Matsuricon Cosplay Repair Room has just about everything attendees need to touch up or mend a cosplay. Our staff can answer questions, offer solutions, and help find the right tools for the repair.
+- **Tokusatsu Photoshoot** — 12:00 PM–1:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Giant Kerplunk** — 12:00 PM–1:00 PM | McKinley | Movement Room | Interactive
+  - Come have fun playing Giant Kerplunk!—an oversized twist on the classic family game everyone loves! KerPlunk is a fast-paced game of suspense and strategy that players of all ages can enjoy. Take turns carefully removing sticks from the tube without making any of the balls fall- The person who collects the least amount of fallen balls, wins! All attendees who participate will receive a movement room ribbon and a Matsuricon button!
+- **Gotham by Neon Lights** — 12:00 PM–4:00 PM | Morrow | RPG
+  - Batman has gone missing! Play as your favorite member of the batfamily in a Cyberpunk Gotham. Will you be able to find and restore The Dark Knight? Do you even want to? Perhaps this version of Gotham deserves something different, someone....like you?!nGM: BradnRule System: Sentinels Comics Roleplaying Game nDuration: 4 hours
+- **How to Not Suck at Storytelling** — 12:00 PM–1:00 PM | Morrow | STF | Gaming
+- **Learn to Play: Vampire the Masquerade** — 12:00 PM–5:00 PM | Morrow | RPG
+  - Have you ever wanted to know what goes bump in the night? Have you watched LA by Night? Are you just into vampires?nnCome discover all that and more as you learn to play Vampire the Masquerade 5e.nnThis session will include the basics of character creation, and a mini one shot of what it means to be a vampire within these modern nights. nGM: TaliesinnRule System: Vampire the Masquerade 5th editionnDuration: 5 hours
+- **Immediate Murder Professionals: Helluva Boss Board Game Learn to Play** — 12:00 PM–3:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - You’re part of I.M.P. - The Immediate Murder Professionals. Compete with rivals to snatch the juiciest souls while chaos from the Hellaverse crashes in. Your Asmodean crystal lets you reach into the mortal realm, but the portal is fickle, twisted by spells, sabotage, and nasty IMP-terruptions from your rivals. When five summon cards hit, the portal slams shut, and everyone is sucked back to hell. Only one killer comes out on top. Will it be you? - 2-4 players
+- **Flesh and Blood Learn to Play** — 12:00 PM–2:00 PM | Windows | CCG | Gaming; Learn to Play
+- **Video Games 80's & 90s** — 12:15 PM–1:45 PM | A120-122 | Panels 4 | Guest Panel
+  - From Donkey Kong to Double Dragon, we’ll show off the best and worst Saturday morning cartoons based on video games from the 80s, 90s and beyond. Insert coin and press start!
+- **It’s Morphin Time! Adapting Super Sentai to the Western Audience** — 12:15 PM–1:45 PM | A123-124 | Panels 5
+  - Super Sentai has grown from a household drama superhero series, into the action-packed western heroes known as Power Rangers! Join us as we look back at the creators of Super Sentai’s origins, the early versions of the Sentai, and how it was adapted into Power Rangers and beyond for the Western Audience.
+- **Take me out to the Bōru Game! What’s the Deal with Baseball Manga?** — 12:15 PM–1:15 PM | Delaware | Panels 1 | Partner Panel
+  - Why is baseball manga so popular in Japan? Where did it come from? Why is there so little of it translated into English? Why aren’t there more comics about baseball in the U.S.? What does baseball manga have to do with battle shonen, named special attacks, and lots of other now-staples of contemporary manga and anime? Cartoonist/baseball fan Ben Towle answers all (or at least tries to!) in this talk about the origins, history, and influence of baseball manga.
+- **Fandom Etiquette 101: Let's Learn Manners Together!** — 12:30 PM–1:30 PM | A110-113 | Panels 2
+  - "Let's face it: we all have heard the complaints about fandoms ""dying"" and people ""ruining"" fandom spaces because they are breaking all the rules of fandom etiquette. But what *are* these so-called rules and why should we even bother to follow them in the first place? Join us as we write up a basic guidebook for how to behave appropriately and respectfully in fandom spaces so we can spend less time fighting about our favorite medias and more time actually enjoying them."
+- **Crossing Worlds: A Hoyoverse Voice Cast Panel** — 12:45 PM–2:15 PM | Union Ballroom | Main Events 1 | Guest Panel
+  - No matter where your journey began, through Teyvat, aboard the Astral Express, or on the streets of New Eridu, this panel is your next destination! Join Amber Lee Connors, Brittany Lauda, Bryson Baugus, Daman Mills, Griffin Puatu, Kira Buckland, Melissa Fahn, and Ricco Fajardo for an adventure across the HoYoverse. Go behind the mic as the cast shares stories from the recording booth, reflects on bringing fan-favorite characters to life, and talks about the unique challenges of voicing heroes, villains, and everything in between. From unforgettable moments to unexpected laughs, this panel is packed with behind-the-scenes insights, audience Q&A, and plenty of HoYoverse fun. Whether you're spending your days farming artifacts, chasing the perfect relics, or taking on the latest Hollow, there's something here for every Traveler, Trailblazer, and Proxy.
+- **Badge Ribbon Meetup** — 1:00 PM–2:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Miniature Painting** — 1:00 PM–2:00 PM | Marion | Maid to Be | Gaming; Interactive
+- **Free Play** — 1:00 PM–2:00 PM | McKinley | Movement Room | Interactive
+  - Visit the Movement Room during Free Play hours to enjoy access (with badge) to several classical games.. But in giant form! We have Giant Jenga, Giant Connect 4, Giant Yahtzee, Giant Sorry, Giant Uno and more! We are confident that there will be something fun for everyone here in the Movement Room, so stop on by!
+- **Humblewood IN SPAAAAACE! - Bad Tides** — 1:00 PM–5:00 PM | Morrow | RPG
+  - Description: Terraforming can be hard, even for nature’s finest engineers. The timberfolk of a newly established colony have sent out a distress signal. It warns of bad tides and unexplained phenomena. Can the other humblefolk solve the mystery and save the colony?nGM: AngelanRule System: D&D 5e HumblewoodnDuration: 4 hours
+- **The Black Ballad (D&D 5e 2024)** — 1:00 PM–4:30 PM | Morrow | STF | Gaming
+- **From Battlefield to Budo: The Art of Naginata** — 1:00 PM–2:00 PM | Regency Ballroom | Main Events 2 | Partner Panel
+  - Discover your new favorite martial art with the Columbus Naginata Club. Learn how this traditional polearm evolved from battlefield weapon to feminine icon to modern budo, then watch practitioners showcase elegant kata, dynamic sparring (shiai), and the techniques, strategy, and spirit that make naginata a unique martial art. Attendees have the chance to win 1 of 10 coveted spots for a free intro class on Sunday!
+- **Epic Spell Wars of the Battle Wizards Learn to Play** — 1:00 PM–4:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - Did you know that magical wizards are battling to the death ... and beyond ... right now!? "Why battle?" you might ask. "What have I got to prove, magic man?" Only who's the most awesomely powerful battle wizard in the entire realm, that's what! As a Battle Wizard, you'll put together up to three spell components to craft millions (okay, not really) of spell combos. Your spells might kick ass, or they could totally blow – it's up to you to master the magic. You will unleash massive damage on the faces of your wizard rivals in a no-holds-barred, all-out burn-down to be the last Battle Wizard standing. And it doesn't stop there! Powerful magic items bring on a whole new level of bloody carnage as you and your mighty wizard opponents tear each other limb from limb in an orgy of killing! - 2-6 players
+- **The Most Famous Anime Around the World** — 1:15 PM–2:30 PM | A114-115 | Panels 3
+  - Many of the most lastingly popular anime in America are shows that broadcast on TV in the 90s and 2000s. But Japanese entertainment, in many different forms, has made its way all over the world. Come and learn what anime have become institutions and inspired revolutions across the globe.
+- **18+ Divorce Court** — 1:30 PM–2:30 PM | Delaware | Panels 1 | 18+
+  - You, yes you! Have you ever wanted to get divorced? Well now’s your opportunity! Join us as we end marriages of happy ships, crack ships, and doomed ships.
+- **An interactive intro to BTS!** — 1:45 PM–3:15 PM | A110-113 | Panels 2
+  - Mmh? Eoseo wa, bangtaneun cheoeumiji? (Welcome, is it your first time with BTS?) When BTS announced their first tour and comeback after completing their military enlistment, I made a slideshow to present to my dad, in hopes to familiarize him with the group before the tour. Whether you are a hardcore BTS fan, or you’ve never even heard of kpop before, bring a friend and a phone, come learn a thing or two, and submit your honest opinions via Google Form in time with the presentation!
+- **Love Live! All Star Gameshow!** — 2:00 PM–3:00 PM | A120-122 | Panels 4
+  - This panel will be a game show centered around the Love Live! franchise. Questions will focus on the groups: Muse, Aqours, Nijigasaki, and Liella! With bonus questions about Hasunosora and Ikizurai-Bu! for the super fans out there! 2 teams will fight to prove who knowns the most about Love Live! with questions both older and newer fans can get right.
+- **Low Spoons Cosplay** — 2:00 PM–3:00 PM | A123-124 | Panels 5
+  - "A panel full of tips, tricks & tools to help out when you're low on spoons. A lot of people deal with having low ""spoons"" (aka energy) due to chronic illness or a demanding lifestyle. This panel will discuss how to optimize on your energy when you have it and how to feel that sense of accomplishment on days when you just don't have it. Discussion items include the preparation, creation and wearing of cosplays; attending conventions; and the post-convention slump."
+- **Danganrompa Photoshoot** — 2:00 PM–3:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Cosplay Cornhole** — 2:00 PM–3:00 PM | McKinley | Movement Room | Interactive
+  - Come play the super popular Ohio lawn game- in Cosplay! Take turns throwing bean bags, try landing on the board or making in the hole to score points! Team up or play 1v1 in Cosplay Cornhole! Cosplay is not required, but encouraged! All attendees who participate will receive a movement room ribbon and a Matsuricon button!
+- **Deadlands: City of Woe** — 2:00 PM–6:00 PM | Morrow | RPG
+  - Join us for a game of Deadlands!nGM: JaymenRule System: DeadlandsnDuration: 4 hours
+- **Good Morning, Lancer - Training Day** — 2:00 PM–6:00 PM | Morrow | RPG
+  - Freshly minted from the Lancer Academy™, we didn't expect to be called on to defend Ikara and 30 million souls that call it home, but when the sirens go off and our boots hit the floor we are the only ones between the city and disaster! Step out into the neon and fog and strap into your (not so) shiny mech to protect the city from a sudden robot uprising!nJoin in for some episodic fun where we will build License Level 1 Lancer's and take them for a spin. After all, what could possibly go wrong leaving the city in the hands of a bunch of rookies? nGM: ChichinRule System: LancernDuration: 4 hours
+- **Cyber Pet Quest Learn to Play** — 2:00 PM–5:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - Embark on a thrilling adventure with Jane, a fully bionic cat, and her cybernetically enhanced friends: Clay the dog, Freya the raccoon, and Roman the goose. Join this eclectic team as they set out to find Jane's missing owner, Howard, in the intra-apocalyptic city of San Lazaro. With its diverse and immersive locations and a quirky cast of enemies, this metropolis will keep you on the edge of your seat. As you delve deeper into the city, you'll need to flex your tactical muscles and harness the pets' array of unique abilities and powerful items to succeed in your quest. Will you uncover the truth behind Howard's disappearance and guide Jane to her missing owner? Your choices will determine the outcome. - 1-4 players
+- **Yu-Gi-Oh! Standard Tournament** — 2:00 PM–5:00 PM | Windows | CCG | Gaming; Tournament
+- **Ugh! Gah! Oof! The Art of Anime Reactions with Tony Oliver** — 2:15 PM–3:15 PM | Regency Ballroom | Main Events 2 | Guest Panel
+  - Ever wonder what it’s like to do all the fight sounds, efforts and reactions in your favorite anime. Wellnthen join Tony Oliver for a special panel where the chairs are moved back a bit a, everyone is on theirnfeet, and action reactions abound. You’ll learn how to do fighting reactions without hurtingnyourself...too much. You’ll go over proper techniques for everything from big “death” screams to intimatenunderstated breaths and everything in between. Toward the end of the panel some of you will get tonprovide all the reaction sounds to a fun story crafted especially the Convention read by Tony. Whethernyou jump in and participate or sit by and watch, this is sure to be a fun panel for all.
+- **Trinket Trade** — 2:30 PM–3:45 PM | Fairfield | Workshop
+  - Bring your wares! Anyone with any kinds of trinkets welcome; be it little figures, beaded bracelets, a bottle cap or a photocard! Trade with others! Find your new favorite treasure!
+- **VO 101 with Corey Wilder, Matt Shipman, & Katie Caruso** — 2:30 PM–3:30 PM | Union Ballroom | Main Events 1 | Guest Panel
+  - Of course you’re welcome to ask the age-old “How did you get into voice over” or “how do *I* get into voice over” - but if you have other burning questions about what it’s like to work on anime and games, or be a voice over director/producer/adaptive script writer, we are here to answer all we can!
+- **Haikyuu Game Night** — 2:45 PM–3:45 PM | Delaware | Panels 1
+  - Welcome!! Are you a fan of haikyuu? Volleyball?? Do you have the ultimate knowledge of both?? Come test your knowledge and hang out with the characters from the show!!!
+- **Guys, Early 2000s PBS Shows Had LORE** — 3:00 PM–4:00 PM | A114-115 | Panels 3
+  - Does anyone remember The Ruff Ruffman Show, Zoboomafoo, or even Between the Lions? Put your conspiracy caps on because we’re going back in time to see what insane worlds and backstory’s these shows had, while also touching on the drama behind-the-scenes.
+- **Love and Deepspace Photoshoot** — 3:00 PM–4:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Miniature Painting with Maid to Be** — 3:00 PM–4:00 PM | Marion | Maid to Be | Gaming; Interactive
+  - Join Maid to Be for an hour of Bardic Inspiration! New and Experienced adventurers alike are provided miniatures, supplies, and guidance for painting a tabletop mini. A good relaxing session to unwind and level up artistic skills!
+- **Free Play** — 3:00 PM–4:00 PM | McKinley | Movement Room | Interactive
+  - Visit the Movement Room during Free Play hours to enjoy access (with badge) to several classical games.. But in giant form! We have Giant Jenga, Giant Connect 4, Giant Yahtzee, Giant Sorry, Giant Uno and more! We are confident that there will be something fun for everyone here in the Movement Room, so stop on by!
+- **Rifts** — 3:00 PM–7:00 PM | Morrow | RPG
+  - Join us for a game of Rifts!
+- **Gundam TCG Learn To Play** — 3:00 PM–4:00 PM | Windows | CCG | Gaming; Learn to Play
+- **Cosplay Cleric 101** — 3:15 PM–4:15 PM | A120-122 | Panels 4
+  - The Cleric of Cosplay will present the basics of what it means to do cosplay repair, a history of the practice, and will go through all that you light need in order to be a cosplay repair person.
+- **Genshin Impact OST Jeopardy** — 3:15 PM–4:15 PM | A123-124 | Panels 5
+  - One of the big things we Genshin Impact fans love about the game is its soundtrack—but how well do you *actually* know all these songs? Come test your knowledge on Genshin Impact's character themes, battle tracks, cutscenes, and more in a musical game of Jeopardy! We’ll have prizes for competitors and ribbons for audience members, so please stop by and appreciate HOYO-MiX's masterpieces with us!
+- **18+ Angst or Smut? A Fanfic Guessing Game!** — 3:30 PM–4:30 PM | A110-113 | Panels 2 | 18+
+  - When scrolling through Ao3, hunting for the next fanfic to read, you have to be sure to check the tags as well as the title. You don't want to end up stumbling upon a spicey scene on your work break or sobbing in the middle of class. Come test your skills and see if you can tell if a fic will be angst or smut by it's title!
+- **I Know That OP! A Game Show** — 3:30 PM–5:15 PM | Regency Ballroom | Main Events 2
+  - Come test your anime opening (and ending) knowledge in this friendly game show panel, with fresh titles added for this year! Contestants will work in panelist-assigned teams (first come, first serve) to answer questions about identifying anime via their OPs and EDs, with a chance to win fabulous prizes, featuring tunes from current hits to retro favorites! Spectators in the audience will also be encouraged to participate!
+- **Courage & Curiosity: Return to the Digital World with the Digimon Cast** — 3:45 PM–4:45 PM | Union Ballroom | Main Events 1 | Guest Panel
+  - The Digivice is calling once again! Join Joshua Seth (Tai) and Mona Marshall (Izzy) as they return to the Digital World for a nostalgic look back at the anime that introduced a generation to Digimon. Hear behind-the-scenes stories from the original English dub, revisit unforgettable adventures, and discover what it was like bringing two of the DigiDestined's most iconic heroes to life. Whether you grew up racing home to catch the next episode or you're discovering Digimon Adventure for the first time, this panel is packed with memories, laughs, fan Q&A, and plenty of digital nostalgia. Grab your Crest and get ready to Digivolve your convention experience!
+- **18+ GUESS THAT OPPAI** — 4:00 PM–5:00 PM | Delaware | Panels 1 | 18+
+  - 2 teams compete to see which side is more of a degen! What's the topic of you ask?? Anime oppai of course!!!!
+- **Avatar Legends the Fighting Game** — 4:00 PM–5:45 PM | Franklin | Video Gaming | Gaming
+- **Escape Room** — 4:00 PM–12:00 AM | Garfield | Escape Room | Interactive
+- **Project Moon Photoshoot** — 4:00 PM–5:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Miniature Painting with Maid to Be** — 4:00 PM–5:00 PM | Marion | Maid to Be | Gaming; Interactive
+  - Join Maid to Be for an hour of Bardic Inspiration! New and Experienced adventurers alike are provided miniatures, supplies, and guidance for painting a tabletop mini. A good relaxing session to unwind and level up artistic skills!
+- **Cosplay Chess** — 4:00 PM–6:00 PM | McKinley | Movement Room | Interactive
+  - We supply the Chess board, you supply the chess pieces! Come participate in our live action chess while dressed as one of your favorite characters! Attendees can also participate by being one of the game masters to help guide their cosplay chess team to victory. Participation Matsuricon themed ribbons and buttons will be given out to those who play.
+- **Beyblade Metal Saga Tournament** — 4:00 PM–6:00 PM | Windows | CCG | Gaming; Tournament
+- **Sticky stuff: Glues for cosplay and other crafting** — 4:15 PM–5:15 PM | A114-115 | Panels 3
+  - Sticky stuff: Glues for cosplay and other crafting
+- **18+ Pasties making workshop (cost is 15) Scarlett Mafia** — 4:15 PM–5:30 PM | Fairfield | Workshop | 18+
+  - Learn how to make your own pasties for festivals raves and burlesque with Scarlett Mafia teaching you the step-by-step for beginners materials included. Must pay prior to taking the workshop.
+- **Do You Wanna Build A One-Shot? It Doesn't Have To Be A One-Shot** — 4:30 PM–5:30 PM | A120-122 | Panels 4
+  - One-shot sessions of tabletop RPGs are a great way to get a taste of a system or setting without the time commitment of a full campaign. But what happens when your players really enjoy a one-shot and want to continue? Come to this panel to learn and discuss tips and tricks for creating one-shots to use in home games or at conventions, and how to convert them into a full campaign. Your hosts are gamemasters with over 10 years of combined experience in creating one-shot scenarios for convention play – time permitting, attendees will work together to build a scenario with them!
+- **Bing Bong's PEAKest moment** — 4:30 PM–5:30 PM | A123-124 | Panels 5
+  - Hey, Scouts! Grab your backpack, scout mix, and wilderness handbook as we embark upon Bing Bong Airlines to an interactive panel on the popular game, PEAK. Take a “crash” course in the lore of Peak's history, draw your scout, learn about Bing Bong's favorite artist and dance along with fellow scouts to his latest concert video, and more! Remember rule zero, “Never abandon a friend in need!” and bring your friends along for the climb.
+- **18+ Hellaverse Sing-a-Long** — 5:00 PM–7:00 PM | A110-113 | Panels 2 | 18+
+  - You love Hellaverse as much as we do? Well come on and song ALL of the songs with us. From Season 1, Season 2, The Pilot, and maybe even some Hellvaboss and Bonus songs if we have time.
+- **Dandadan Photoshoot** — 5:00 PM–6:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Hellaverse (Hazbin Hotel and Helluva Boss) Photoshoot** — 5:00 PM–6:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Night Market** — 5:00 PM–12:00 AM | Hayes | Night Market
+  - Step into a room inspired by the feeling of a traditional Japanese matsuri. Discover local creativity, linger among the displays, and make time for a few games while the convention night is still young.nDaruma Otoshi (Doll Drop)nnKingyo Sukui (Goldfish Scoop)nnTwo favorites to look for among the Night Market’s rotating festival games.nnMARKET STOP // MAKERSnnMeet Local ArtistsnNight Market experiencenBrowse beautiful art and clever creations from talented artists in a relaxed, after-hours setting.nnEXPLORE THE MARKETnnMARKET STOP // GAMESnnTry Matsuri ClassicsnNight Market experiencenTake on traditional favorites like Daruma Otoshi and Kingyo Sukui, plus more festival-style games.nnPICK UP GAME TICKETSnnMARKET STOP // PRIZESnnPlay to WinnNight Market experiencenEarn tickets at the game stations, then exchange your winnings for a fun prize before the night ends.
+- **Maid to Be - Board Game Session** — 5:00 PM–6:00 PM | Marion | Maid to Be | Gaming; Interactive
+  - Relax and unwind as the colorful cast of the Maid to Be Guild plays a board game together with you! Whether it is a simple party game, or something a bit more heavy-weight, our game library is sure to have something for everyone. Don't know how to play? No worries, our maids and butlers will help guide you. Fair warning though-- some of us don't lose so easily!
+- **Con of the Dead Game (Dread)** — 5:00 PM–10:00 PM | Morrow | STF | Gaming
+- **Joking Hazard Let’s Play** — 5:00 PM–8:00 PM | Taft C/D | Tabletop Gaming | 18+; Gaming
+  - A game in which you compete with your friends and enemies to finish an awful three-panel comic, from a deck of cards with millions of possible combinations. - 3-10 players 18+
+- **Flash Beats** — 5:00 PM–6:00 PM | Union | Arcade | Gaming
+- **18+ Nat One Presents - VTubers Say the Darndest Things!** — 5:15 PM–6:15 PM | Delaware | Panels 1 | 18+
+  - We sure do love our oshis! Even if they say incredibly crazy things on social media and in their streams. Can you guess which VTuber made what insanely crazy claim just by their posts? Come test your luck in this game where VTubers Say the Darndest Things!
+- **Sewing with fiddley fabrics and weird materials** — 5:30 PM–6:30 PM | A114-115 | Panels 3
+  - Cosplayers are known for their unique use of materials, very specific fabric choices, and creative solutions... let's embrace it! Let's go over some ways to make working with fiddly fabrics—slippery satins, floaty chiffon, and sticky faux leathers—less frustrating and more successful. Then, we'll talk about how to make with unconventional fabrics: foam, plastic, paper, cork, and more.
+- **Fantoche Kpop/Jpop Gala** — 5:30 PM–8:30 PM | Union Ballroom | Main Events 1 | Concert/Show
+  - The KPOP/JPOP Dance Gala is a celebration of dance! This half-competition, half-showcase is the perfect stage for dancers of all experiences to show off their moves. Interested participants can sign up for competition, showcase, or both! Wanna watch and make it feel like a true idol concert? Bring your lightsticks and energy to support the amazing dance community Matsuricon has to offer! Come join us for the 5th annual KPOP/JPOP Dance Gala!
+- **Arcade Rhythm Games 101** — 5:45 PM–6:45 PM | A120-122 | Panels 4
+  - The world of arcade rhythm games can be intimidating to a newcomer, but we believe rhythm games should be for everyone to enjoy! If you aren't sure where to start, let us help guide you through menu navigation, vocabulary, and the new and old games you might find at your local arcade!
+- **Traveling to Japan!** — 5:45 PM–7:45 PM | A123-124 | Panels 5
+  - Want to go to Japan but don’t know where to start? You can start here! I’ll talk about passports, what you’ll need to take with you, how to find places to stay, and a list of fun things to do when you get there!
+- **One Piece: Egghead Testing Protocol** — 6:00 PM–10:00 PM | RPG
+  - Dr. Vegapunk needs help testing some new things for the world government. You have been selected (or forced) to help test these things.nnHe's the smartest man in the world, so it should be safe...right?nnPre-made characters will be provided, please come early if you want to make a character yourself.nnSpoilers for the One Piece Anime and Manga will be involved. nGM: IannRule System: D&D 5e 2024nDuration: 4 hours
+- **Cosplay and Material Supply Swap** — 6:00 PM–8:00 PM | Fairfield | Workshop
+  - We know you have materials leftover from that one cosplay you made five years ago that you'll never use, or some fabric from that cosplay you never made and probably never will. Or maybe you have actual cosplays in your closet that are taking up space, never worn. Bring all of that with you to this panel and you can swap the things that you won't use for stuff that you will! NO MONEY WILL EXCHANGE HANDS. This is for trading or giving away your materials. All crafting material is welcome and you don't need to bring anything to come check out what people are giving away!
+- **Badge Ribbon Meetup** — 6:00 PM–7:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **A Party to Remember! (Fate Accelerated)** — 6:00 PM–9:00 PM | Morrow | STF | Gaming
+- **Battle of the Bards (D&D 5e)** — 6:00 PM–10:00 PM | Morrow | RPG | Gaming
+- **Convention Foam Fighting (CFF)** — 6:00 PM–10:00 PM | Taft A/B | CFF | Interactive
+- **Crokinole Tournament** — 6:00 PM–9:00 PM | Taft C/D | Tabletop Gaming | Gaming; Tournament
+  - Players take turns shooting discs across the circular playing surface, trying to land their discs in the higher-scoring regions of the board, particularly the recessed centre hole of 20 points, while also attempting to knock opponents discs off the board or into the ditch. - 2 players - 20 mins per round tournament style - 20 players enter with a waitlist
+- **Lorcana Learn To Play** — 6:00 PM–8:00 PM | Windows | CCG | Gaming; Learn to Play
+- **MTG Commander Tournament** — 6:00 PM–9:00 PM | Windows | CCG | Gaming; Tournament
+- **Street Fighter 6 1v1** — 6:15 PM–8:00 PM | Franklin | Video Gaming | Gaming
+- **18+ Anime Waifu Tier Battle** — 6:30 PM–7:30 PM | Delaware | Panels 1 | 18+
+  - Join us in tiering Matsuricons most popular waifus. There will be laughter, tears, and alot of slander.
+- **Crash Course: Building an Art Shop** — 6:45 PM–7:30 PM | A114-115 | Panels 3
+  - This panel will be discussing how to go about starting on Art Shop. If you’ve been considering to sell your artwork but don’t know where to start, this panel will give tips on where to go first.
+- **Beyond Totoro, Anime Movies not from Ghibli** — 7:00 PM–8:00 PM | A120-122 | Panels 4
+  - Are you looking for a new anime film to watch? Join me as I give you some ideas to watch to help with the post con blues. Whether you are new to anime film or well versed you will find a new film to watch.
+- **Roll for Revelry: Dungeon Delve with Maid to Be** — 7:00 PM–8:00 PM | Marion | Maid to Be | Gaming; Interactive
+  - The panel becomes the party! Hosted by the elven MC Ephraim, join Maid to Be for a dungeon delve inspired by classics of the choose-your-own-adventure genre and the creativity of old-school RPGs.
+- **Heist on The Ghostflame Express (Daggerheart)** — 7:00 PM–10:00 PM | Morrow | STF | Gaming
+- **Old Gods of Appalachia: The In-Between (Cypher System)** — 7:00 PM–11:00 PM | Morrow | RPG | Gaming
+- **Rescue Ribbons: Sinking Feeling (Daggerheart)** — 7:00 PM–11:00 PM | Morrow | RPG | Gaming
+  - The Ribbons need to ensure a parade goes without a hitch, or else the local library loses funding! Even if it means fighting a monster as part of the show. nnJoin us for this magical girl-inspired adventure.
+- **Formal** — 7:00 PM–9:00 PM | Regency Ballroom | Main Events 2 | Event; Interactive
+  - Arrive at the ball prepared to dance the night away! Waltz like the ethereal fae, foxtrot like Fred Astair, and bachata like Bayonetta. No partner required! This ball is open to both experienced dancers and those who are brand new to dance. This whimsical ballroom gala will play a variety of music that will get you on the dance floor. Dance with your own partner OR ask a stranger to dance. Dance hosts will also be available to whisk you away. nTwo ballroom crash course panels will be offered during the daytime to go over basic patterns, etiquette, and some lead/follow tips to make sure you have an enchanted evening. No Partner required. Each class is 60 minutes and is open for those who want to try ballroom dance for the first time or for those who need a refresher! Be sure to check the schedule for class specifics!
+- **HeroClix Learn to Play** — 7:00 PM–10:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - A tactical combat miniatures game where you put heroes and villains from your favorite comics, movies, and TV shows in head-to-head combat. - 2 players
+- **DeathBall 1v1** — 7:00 PM–8:00 PM | Union | Arcade | Gaming
+- **18+ It’s Raining Men** — 7:15 PM–8:30 PM | A110-113 | Panels 2 | 18+
+  - The BL revolution has begun! Let's take a look at the origins of the genre going back to the 60s and how webcomics made Boys Love so beloved today. We will end with a Kahoot to test of your knowledge. Prizes for the winners!
+- **Wicked Slumber Party** — 7:30 PM–8:30 PM | McKinley | Movement Room
+  - Grab your pajama cosplays and join us for a Broadway lovers dream experience. Hosted by Galinda, we’ll explore everything Wicked. There will be games, there will be singing, and of course there will be hair tossing too.
+- **Anime Court** — 7:45 PM–8:45 PM | Delaware | Panels 1
+  - All rise! Enter the courtroom and put your favorite video game and anime characters on trial to decide their fate. Help decide on a case then step up as the prosecutor, defense attorney, plaintiff, defendant, a key witness, or a member of the jury. Court is now in session!
+- **Kimono 101 - Learn How To Wear** — 8:00 PM–9:00 PM | A114-115 | Panels 3
+  - Ever want to learn how to wear a Japanese kimono in a culturally respectful way? This beginner-level workshop will review the core basics of wearing a kimono and demonstrate how it is put on and worn.
+- **Karaoke** — 8:00 PM–11:00 PM | A123-124 | Panels 5
+- **Guilty Gear: Strive** — 8:00 PM–10:15 PM | Franklin | Video Gaming | Gaming
+- **Maid to Be - Board Game Session** — 8:00 PM–9:00 PM | Marion | Maid to Be | Gaming; Interactive
+  - Relax and unwind as the colorful cast of the Maid to Be Guild plays a board game together with you! Whether it is a simple party game, or something a bit more heavy-weight, our game library is sure to have something for everyone. Don't know how to play? No worries, our maids and butlers will help guide you. Fair warning though-- some of us don't lose so easily!
+- **Murder at Holmfirth Hall (D&D 5e)** — 8:00 PM–12:00 AM | Morrow | RPG | Gaming
+- **Zaibatsu Learn to Play** — 8:00 PM–11:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - The game is set in a cyberpunk future, players represent supercorporations rivals, the Zaibatsu, who struggle to obtain the domain and control of the global network of information, Cybernet and for this we serve a large number of agents, mercenaries pawns they use to achieve their targets. Zaibatsu is a print and play cyberpunk-themed game, each player in game can move pawns, attack the pawns controlled by other players, put new hexagonal blocks to expand the modular board or gain control of the existing blocks to dominate the board and win the game - 2-4 players
+- **Yu-Gi-Oh! No List Tournament** — 8:00 PM–10:00 PM | Windows | CCG | Gaming; Tournament
+- **Know your notions: All about machine feet, needles, presser feet, pins, thread, cutting and marking tools, and interfacing!** — 8:15 PM–9:15 PM | A120-122 | Panels 4
+  - Knowing the details about your sewing tools can make or break your project! Are you using the correct pins and needles for your fabric? Is your interfacing fighting with your fabrication? Will your chosen marking tools cause regrets? Let's dive deep into all the common notions we use as sewists and cosplayers!
+- **Bead Me Baby One More Time: Kandi Workshop** — 8:30 PM–10:00 PM | Fairfield | Workshop
+  - Wind down with some bead-tastic fun! From singles to flower cuffs, kandi charms and beaded hair clips. We’ll have demonstrations of each designs and flyers with pictures and written institutions if that’s more your learning style. Beginners welcome and materials provided for a $5 fee (Payments accepted by, cash, cash app, Venmo or PayPal )
+- **Anime or Politician?** — 8:45 PM–9:45 PM | A110-113 | Panels 2
+  - “I have a big gun and I took it from our Lord!” Who said it, an anime character or a US politician? Think that one was too easy? Then come and test your skills at this hilarious interactive game panel where the whole audience can join in on the fun.
+- **18+ Your Waifu is Crap** — 9:00 PM–10:00 PM | Delaware | Panels 1 | 18+
+  - Offer us your waifus, and we'll let you know how awful they are!
+- **Werewolf** — 9:00 PM–10:00 PM | Marion | Maid to Be | Gaming; Interactive
+- **J-pop & K-pop Random Dance Play with Kaleido Dream!** — 9:00 PM–10:45 PM | McKinley | Movement Room
+  - Calling all J-pop and K-pop lovers alike! Get ready to dance with Kaleido Dream to your favorite songs from both genres from over the years! With fan favorites like BTS, TWICE, Stray Kids, and ITZY to Love Live!, Project Sekai, Hello!Project, and Kaigai Idols! There's something here for everyone!! Bring your penlights and your hydration and get ready for non-stop dancing and fun! We can't wait to dance with you all!
+- **Carcassonne Learn to Play** — 9:00 PM–12:00 AM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - A tile placement game in which the players draw and place a tile with a piece of southern French landscape represented on it. The tile might feature a city, a road, a cloister, grassland or some combination thereof, and it must be placed adjacent to tiles that have already been played, in such a way that cities are connected to cities, roads to roads, et cetera. Having placed a tile, the player can then decide to place one of their meeples in one of the areas on it: in the city as a knight, on the road as a robber, in the cloister as a monk, or in the field as a farmer. When that area is complete that meeple scores points for its owner. - 2-5 players
+- **Crokinole Learn to Play** — 9:00 PM–11:00 PM | Taft C/D | Tabletop Gaming
+- **VA Roundtable** — 9:00 PM–10:00 PM | Union Ballroom | Main Events 1 | Guest Panel
+- **Dungeon Delving: Why you should read Dungeon Crawler Carl** — 9:15 PM–10:15 PM | A114-115 | Panels 3
+  - Internet phenomenon Dungeon Crawler Carl is rife with dark humor and wonderful storytelling from the get go offering a wild ride of antics and anecdotes that are a worthwhile read or listen. If you are on the fence, let us convince you to read it
+- **MANIME Manly Anime** — 9:30 PM–11:00 PM | A120-122 | Panels 4 | Guest Panel
+  - Join us for an hour of the most over-the-top, bone-crunching, testosterone-fueled macho anime ever to punch its way out of Japan. Huge muscles, explosions, and very stern faces abound
+- **Scarlett Mafia** — 9:30 PM–11:30 PM | Regency Ballroom | Main Events 2 | 18+
+  - Unleash your inner geek with a side of cheek! Scarlett Mafia is the ultimate pop-culture striptease, bringing your favorite fandoms to life with brilliant choreography, quick-witted comedy, and stunningly creative costume reveals. ​Whether you're a tabletop die-hard, a sci-fi super-fan, or just looking for a uniquely high-energy night out, our cast of talented performers is ready to show off their stats. It’s clever, hilarious, and unapologetically nerdy.
+- **18+ A Cosplayer's Guide to Kink** — 10:00 PM–12:00 AM | A110-113 | Panels 2 | 18+
+  - Interested in kink but your only exposure is through cosplay and fandom and you're not sure where to start? Two experienced (and dungeon monitor certified) cosplay kinksters have your back with "A Cosplayer's Guide to Kink" to help steer your first forays into the kink scene, including demos! LGBTQ+ friendly!
+- **Call of Cthulhu: Spirited Away (Call of Cthulhu) [18+]** — 10:00 PM–2:00 AM | Morrow | RPG | Gaming
+- **Five Nights At Matsuri - Night 6 (Final Girl) [18+]** — 10:00 PM–2:00 AM | Morrow | RPG | Gaming
+- **Secret Hitler Let's Play** — 10:00 PM–1:00 AM | Taft C/D | Tabletop Gaming | 18+; Gaming
+  - Players are secretly divided into two teams: the liberals, who have a majority, and the fascists, who are hidden to everyone but each other. If the liberals can learn to trust each other, they have enough votes to control the elections and save the day. But the fascists will say whatever it takes to get elected, advance their agenda, and win the game. - 5-10 players 18+
+- **18+ Ultimate Pokémon Smash or Pass!** — 10:15 PM–11:30 PM | Delaware | Panels 1 | 18+
+  - Based on the popular (and chaotic) video format, panel goers get to participate in the Ultimate Pokémon Smash or Pass! Curating the definitive list of the most "Lovable" Pokémon for the second year in a row!
+- **Lesser known animated movies from around the world** — 10:15 PM–11:15 PM | Union Ballroom | Main Events 1
+  - Apart from America/Japan there are so many amazing animated movies that are overlooked in the mainstream. Join as I show a couple of these gems from around the world and hopefully find you a new favorite movie.
+- **18+ Honkai Star Rail: Kiss Marry Kill!** — 10:30 PM–11:30 PM | A114-115 | Panels 3 | 18+
+  - Do you like Honkai Star Rail? Do you really like it? Well join some of your favorite characters in a classic game! We want your opinions but you can always just watch along! Kiss Marry Kill with all the favorites, what could be better?
+- **Mostro Lounge Onboarding Seminar: A Twisted Wonderland Panel** — 11:15 PM–12:15 AM | A120-122 | Panels 4
+  - Welcome new team members to your first Mostro Lounge staff meeting! Don't be late!An in-character panel of the Octavinelle dorm from the Disney game Twisted Wonderland. A mix of headcanons, real trivia (Kahoot), bad advice, and the twins rage baiting Azul. Also boosting team morale if you have any left by the end.
+- **18+ Cosplay Dating Game!** — 11:15 PM–12:15 AM | A123-124 | Panels 5 | 18+
+  - Feeling a bit lonely? Need to find your cosplay match? Join us for an hour of blind dating with three contestants and *plenty* of chemistry. Audience participation is encouraged! Be prepared to impress these eligible bachelors and bachelorettes!
+- **The anime song Kahoot that will make you cry (in frustration)** — 11:30 PM–12:30 AM | Union Ballroom | Main Events 1
+- **Weeb Tarot Workshop** — 11:45 PM–12:45 AM | A114-115 | Panels 3
+  - This workshop is all about tarot! We will start by going over the basics of tarot, its history and cultural significance. The rest of this panel covers how to read tarot through its symbolism and numerology. This workshop aims to be a judgement feee place to build community and learn all about the magic of divination.
+- **18+ The YouTube Poop Marathon** — 11:45 PM–1:00 AM | Delaware | Panels 1 | 18+
+  - Nice of the panelists to invite us to watch some YouTube Poops, eh Luigi? Come on down and enjoy an hour and a half of perfectly curated YTP goodness, from the classics to the modern age! I hope YOU brought lotsa spaghetti!
+
+## Sat, September 5, 2026
+
+- **18+ Down Bad in Deepspace: A Love and Deepspace Discussion** — 12:15 AM–1:45 AM | A110-113 | Panels 2 | 18+
+  - It’s a LADS night out! If you know, you know and if you don’t, you’re about to. Join us as we dive deep into the characters, memories, and “plot” of Love and Deepspace. Expect unhinged discussions, questionable opinions, and interactive games as we celebrate the moments that got us down bad. Never played? Perfect! Come find out why we’re so obsessed and why this game has everyone talking.
+- **Horses I think should Umas** — 12:30 AM–1:30 AM | A120-122 | Panels 4
+  - Horse racing has a long history of amazing horse names. I think cygames should lean into this, which is why I have some notes for them.
+- **Voltron the game show!!!** — 12:30 AM–1:30 AM | A123-124 | Panels 5
+  - Are you a fan of voltron legendary defender? Do you have what it takes to win? Prove your Voltron knowledge in this fun Voltron game panel!!!
+- **Man...WHAT now?** — 1:00 AM–2:00 AM | A114-115 | Panels 3
+  - Webcomics and comics are becoming more and more popular throughout the world, and a lot of them are comeing from East Asia! But...what are the differences?
+- **Rut-Roh: An Omegaverse Panel (18+)** — 9:00 AM–11:00 AM | A120-122 | Panels 4 | 18+
+  - What is omegaverse? Is it necessary? And why are we so fascinated by it? Let’s take a dive into the genre and find out new things we didn’t need to know along the way...Rut-Roh Raggy...
+- **Cosplay Repair** — 9:00 AM–4:00 PM | Grant & Harding | Cosplay Repair
+  - A snapped strap or loose seam does not have to end your con day. Our volunteer makers have the tools, supplies, and know-how to help with light costume repairs. With ample supplies and plenty of know-how, the Matsuricon Cosplay Repair Room has just about everything attendees need to touch up or mend a cosplay. Our staff can answer questions, offer solutions, and help find the right tools for the repair.
+- **Registration** — 9:00 AM–9:00 PM | Nationwide | Registration
+- **English Dubs You’ve Never Heard of** — 9:30 AM–10:30 AM | A110-113 | Panels 2
+  - There is another dub of Spy x Family? FIVE of Shin-chan!? Find these and other favourites in this panel!
+- **What in the Wattpad 18+** — 9:45 AM–10:45 AM | Union | Arcade | 18+; 18+; Gaming; Gaming; Tournament; Tournament
+- **No Sew?No Problem!** — 10:00 AM–11:00 AM | A114-115 | Panels 3
+  - This panel is designed to be a support group of sorts for those of us who can't sew. Here you will learn how to work around an inability to sew your cosplays and still pursue an outfit with confidence!
+- **The Art of Cute K-Bo** — 10:00 AM–11:30 AM | Delaware | Panels 1 | Guest Panel
+  - Learn the science of making things adorable under a trained master of all things soft, squishy, and sweet. A fun and humor-filled drawing workshop with artist Kevin Bolk (I'm My Own Mascot, Ensign Sue Must Die!). Just try not to get cavities.
+- **Exhibit Hall** — 10:00 AM–6:00 PM | Exhibit Hall | Exhibit Hall
+- **Charity Cainmail 101** — 10:00 AM–12:00 PM | Fairfield | Workshop
+  - Come join Wolf the charity viking and learn how to make your own chainmail and take your own weaved braclet home with you. For $20 you will learn 2 seperate chainmail weaves and be able to take all the rings home with you. All proceeds are fo to the Masuricon Charity.
+- **Adventure Room** — 10:00 AM–3:00 PM | Garfield | Escape Room | Interactive
+  - Step into a living fantasy world where your choices, abilities, and teamwork shape the story. In ARC Fantasy, you create a character with unique powers that determine how you explore, solve puzzles, and uncover secrets." Smartphones are used to access character abilities. Each game last one hour per group and is free to badge holders. Sign up using the link below or sign up by scanning the QR code at Garfield. Link to sign up page: https://ti.to/experimental-gamer/arcfantasy-matusircon-2026 Note: Not ready to book? Visit the FREE Tavern located in Garfield to try it out first.
+- **Manga Lounge** — 10:00 AM–6:00 PM | Madison | Manga Lounge | Interactive
+  - With more than 4,000 titles, a massive selection of figures and statues, and even more to discover, Otaku Manga Lounge is a destination for anime and manga fans. Stop by the Manga Library to read from more than 1,000 titles, then check them out in the Exhibitor Hall.
+- **In the Name of the Moon: Magical Girl Ballet Class** — 10:00 AM–11:00 AM | McKinley | Movement Room
+  - Live out your dreams of being a beautiful, graceful magical girl through ballet! Whether you’ve never touched a ballet barre in your life or you’re a seasoned pro, this class will cater to dancers of all levels using the soundtrack to Sailor Moon.
+- **In Neotokyo, Credits Own You! (Big Eyes, Small Mouth)** — 10:00 AM–2:00 PM | Morrow | RPG | Gaming; Gaming
+- **Lancer: Operation Stormfront (Lancer)** — 10:00 AM–2:00 PM | Morrow | RPG | Gaming; Gaming
+- **Miniature Paint & Take** — 10:00 AM–10:00 PM | Morrow | RPG | Gaming; Gaming
+- **Matsuri Ink** — 10:00 AM–12:00 AM | Ohio Board Room | Matsuri Ink | Interactive
+  - Whether you are a tattoo enthusiast or simply curious about the artistry, Matsuri Ink is your chance to explore remarkable designs, meet talented artists, and find inspiration for your own creative journey.
+- **Around the wold in 40 snacks** — 10:00 AM–11:00 AM | Union Ballroom | Main Events 1 | Guest Panel
+  - Have a seat and watch SungWon Cho munch his way around the world. We've got 40 unique snacks from 40 different countries around the world.
+- **Vocaloid Jeopardy!** — 10:15 AM–11:15 AM | A123-124 | Panels 5
+  - Do you think you know Vocaloid/V-Synth songs? Test your knowledge here!
+- **Working in the Modern Gaming Industry** — 10:15 AM–11:15 AM | Regency Ballroom | Main Events 2 | Guest Panel
+  - For anyone curious about what steps it might take to journey into a career in Gaming, I'll be sharing the story of my own experiences. From educational background to present-day responsibilities as a professional and mentor, I want to share an opportunity to give guidance. This panel will also include a brief Q&A session at the end for questions about careers in the Gaming Industry.
+- **To Isekai or not?** — 10:45 AM–11:45 AM | A110-113 | Panels 2
+  - Talk about some favorite isekai's. What makes a great Isekai? What other Isekai would people like to see in the future?
+- **Go Room** — 11:00 AM–2:00 PM | A126 | Go Room | Interactive
+- **Photo Arena** — 11:00 AM–6:00 PM | Eisenman | Photo Arena | Interactive
+- **Hetalia Photoshoot** — 11:00 AM–12:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Moorland Scherzo (Cthulhu Dreamt)** — 11:00 AM–3:00 PM | Morrow | RPG | Gaming; Gaming
+- **Convention Foam Fighting (CFF)** — 11:00 AM–3:00 PM | Taft A/B | CFF | Interactive
+  - Step into a live fantasy battle where foam weapons, fast-moving action, and beginner-friendly coaching turn every attendee into part of the adventure. Convention Foam Fighting is a live-action entertainment group that combines the excitement of fantasy combat with accessible, safety-minded gameplay. Participants play at no additional cost beyond their convention badge, and every piece of equipment is provided so newcomers can step straight into the action. Entertainers and coaches keep the experience welcoming, energetic, and easy to learn while building a community around the shared thrill of an unforgettable battle.
+- **Flamecraft Learn to Play** — 11:00 AM–1:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - Artisan dragons, the smaller and magically talented versions of their larger (and destructive) cousins, are sought by shopkeepers so that they may delight customers with their flamecraft. You are a Flamekeeper, skilled in the art of conversing with dragons, placing them in their ideal home and using enchantments to entice them to produce wondrous things. Your reputation will grow as you aid the dragons and shopkeepers, and the Flamekeeper with the most reputation will be known as the Master of Flamecraft. - 1-5 players
+- **Mahjong** — 11:00 AM–12:00 AM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+- **Slay the Spire Learn to Play** — 11:00 AM–2:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - A co-operative deck-building, dungeon-crawling adventure. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and finally become strong enough to slay the Spire! - 1-4 players
+- **Beyblade Burst Series Tournament MTG Un-Commander Tournament Lorcana Tournament** — 11:00 AM–1:00 PM | Windows | CCG | Gaming; Tournament
+- **Lorcana Tournament** — 11:00 AM–1:00 PM | Windows | CCG | Gaming; Tournament
+- **Introduction to Battle Century G** — 11:15 AM–12:15 PM | A114-115 | Panels 3
+  - Ever wanted to pilot a giant robot on the tabletop? Now you can! This panel is all about the game Battle Century G and its highly customizable approach to giant robot combat. Learn all about how to build, pilot, and fight with the mech of your dreams!
+- **Paranormal Japan 101** — 11:15 AM–12:15 PM | A120-122 | Panels 4
+  - Fundamentals of Japanese yurei spirits will be introduced along with famous haunted sites, evidence of actual ghost caught on tape, and anecdotal stories based on true events. A must for those interested in Japanese horror. You’ll also have a chance to share your own paranormal experience too! All are welcome!
+- **18+ Tomodachi Life Meetup & Mii Exchange** — 11:15 AM–12:00 PM | McKinley | Movement Room | 18+
+  - Bring your Nintendo Switch and creativity to exchange custom content in Tomodachi Life: Living the Dream the old fashioned way.
+- **TWICE: One in a Million** — 11:30 AM–12:30 PM | A123-124 | Panels 5
+  - Have you been curious about K-Pop, but not sure where to start? Looking for a new group to get into? Have you wondered who that group is at the end of K-Pop Demon Hunters? Do you consider yourself to be ONCE? Then may we introduce to you TWICE. Come join us as we introduce you to the members and music of one of the world's most popular K-Pop Groups. From their origins to becoming global icons, let's talk about a group that will make you Feel Special. All who attend can get a set of TWICE Ribbons.
+- **The Philosophy of Frieren: Beyond Journey’s End** — 11:45 AM–12:45 PM | Delaware | Panels 1
+  - What happens when the quest is over? When ages have gone and your comrades have passed into history and legend? These are the questions our immaculate heroine Frieren must face! Come explore this profoundly deep and meaningful journey beyond the end, where we find the true meaning of life!
+- **Best Bean Bracket!** — 12:00 PM–1:00 PM | A110-113 | Panels 2
+  - We all have our favorite characters. The ones who are most precious. The ones who are most worthy of protection at all cost. Imagine if we took these characters and we paired them up in a bracket style tournament based on audience vote. Who would emerge victorious as the best bean? Come join us and help us decide!
+- **Super Smash Brothers Ultimate 1v1** — 12:00 PM–3:30 PM | Franklin | Video Gaming | Gaming; Gaming; Tournament; Tournament
+- **Critical Role Photoshoot** — 12:00 PM–1:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Giant Kerplunk** — 12:00 PM–1:00 PM | McKinley | Movement Room | Interactive
+  - Come have fun playing Giant Kerplunk!—an oversized twist on the classic family game everyone loves! KerPlunk is a fast-paced game of suspense and strategy that players of all ages can enjoy. Take turns carefully removing sticks from the tube without making any of the balls fall- The person who collects the least amount of fallen balls, wins! All attendees who participate will receive a movement room ribbon and a Matsuricon button!
+- **Monster Hunter: Crimson Wings (D&D 5e: Monster Hunter)** — 12:00 PM–4:00 PM | Morrow | RPG | Gaming; Gaming
+- **Monster of the Week… but it’s the 90’s (Monster of the Week)** — 12:00 PM–4:30 PM | Morrow | RPG | Gaming
+- **Mind Magic with Joshua Seth** — 12:00 PM–1:00 PM | Regency Ballroom | Main Events 2 | Guest Panel; Concert/Show
+  - "Direct from Las Vegas! Get ready for an unforgettable evening of laughter and amazement with Mentalist Joshua Seth.nnCombining mind-blowing mindreading with clean comedy and storytelling, Mind Magic LIVE is a night you’ll never forget ? Experience the Impossible LIVE!nn“A Highly Interactive, Genuinely Amazing and Flat-Out Funny evening of Laughter and Mystery Unlike Any Other Show Touring the Country Today.”n- BROADWAY WORLD"
+- **Cards Against Humanity Let’s Play** — 12:00 PM–3:00 PM | Taft C/D | Tabletop Gaming | Gaming
+  - Come join the party and earn some Awesome points! Are you the funniest one at the table? Will you earn the most Awesome points? - 4 - 30 players
+- **Immediate Murder Professionals: Helluva Boss Board Game Learn to Play** — 12:00 PM–3:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - You’re part of I.M.P. - The Immediate Murder Professionals. Compete with rivals to snatch the juiciest souls while chaos from the Hellaverse crashes in. Your Asmodean crystal lets you reach into the mortal realm, but the portal is fickle, twisted by spells, sabotage, and nasty IMP-terruptions from your rivals. When five summon cards hit, the portal slams shut, and everyone is sucked back to hell. Only one killer comes out on top. Will it be you? - 2-4 players
+- **Jfashion Show** — 12:00 PM–1:00 PM | Union Ballroom | Main Events 1 | Concert/Show
+  - A J-Fashion showcase at the Main Events stage featuring Egglien, Night Whisper Lolita, John V Salvino, A Gato Designs and Puvithel!
+- **Pokemon Expanded Tournament** — 12:00 PM–2:00 PM | Windows | CCG | Gaming; Tournament
+- **The Giant Robot Anime Panel** — 12:30 PM–1:30 PM | A114-115 | Panels 3
+  - This will be a crash course on fifty years of mecha anime history. The origins, the creators, and focus on lasting classics and new favorites. There's room for a cool robot in any kind of story, so come find the one that catches your imagination!
+- **18+ Single 2D Men In Your Area** — 12:30 PM–1:30 PM | A120-122 | Panels 4 | 18+
+  - Dating is hard, but a Steam purchase is easy! Join this panel all about the digital heartthrobs we know and love, as we discuss the best, worst, and spiciest English romance visual novels money can buy! From officially translated works to indie darlings, there's a husbando out there, just for you (and a yandere or two).
+- **DIY Leathercraft: Leather Cat Ears** — 12:30 PM–1:30 PM | Fairfield | Workshop
+  - Unleash your inner kitty meow meow! In this panel, we’ll teach the basics of leatherworking, and guide you through making a pair of leather cat ears you can wear home. There will be a 25 USD materials fee (cash or card), but any are welcome to watch.
+- **Deaf characters in media** — 12:45 PM–1:45 PM | A123-124 | Panels 5
+  - This panel will talk about deaf character/ culture in all types of media from anime like a silent voice to cartoons, comics, movies, books and even tv shows.
+- **The Amazing Digital Circus Jeopardy!!** — 1:00 PM–2:30 PM | Delaware | Panels 1
+  - Welcome to the amazing digital circus jeopardy game! Come test your knowledge on everything having to do with the amazing digital circus. Win some cool prizes and see how much you remember from this fantastic show.
+- **Jujutsu Kaisen Photoshoot** — 1:00 PM–2:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Free Play** — 1:00 PM–2:00 PM | McKinley | Movement Room | Interactive
+  - Visit the Movement Room during Free Play hours to enjoy access (with badge) to several classical games.. But in giant form! We have Giant Jenga, Giant Connect 4, Giant Yahtzee, Giant Sorry, Giant Uno and more! We are confident that there will be something fun for everyone here in the Movement Room, so stop on by!
+- **King For A Day (Daggerheart)** — 1:00 PM–4:00 PM | Morrow | RPG | Gaming
+- **Merit Badges of Everglow Forest (Wyrdscouts)** — 1:00 PM–5:00 PM | Morrow | RPG | Gaming; Gaming
+- **Dice Throne Tournament** — 1:00 PM–3:00 PM | Taft C/D | Tabletop Gaming | Gaming; Tournament
+  - A fast-paced 2-6 player combat game, whether 1v1, 2v2, 3v3, 2v2v2, or free-for-all. Select from a variety of heroes that play and feel completely distinct from one another. Attack opponents and activate abilities by rolling your hero's unique set of five dice. Accumulate combat points and spend them on cards that have a large range of effects, such as granting permanent hero upgrades, applying status effects, and manipulating dice directly whether yours, your teammate's, or even your opponent's. - 2-6 players
+- **TWICE, the Japan Discography** — 1:15 PM–2:15 PM | A110-113 | Panels 2
+  - TWICE is one of the world's biggest K-Pop groups, but did you know they also have a discography of music in Japan. Join us as we take a dive into the Japanese discography, from their first entry, to their exploding popularity, and the rise of MISAMO. Attendees can earn a special TWICE Japan ribbon.
+- **DIY Leathercraft: Leather Dice Bags** — 1:30 PM–2:30 PM | Fairfield | Workshop
+  - Want to make a custom bag for all of your math rocks? In this workshop, we will teach you the basics of leatherworking, and leave you with a small dice bag crafted by your own hands. There will be a 25 dollar materials fee (cash or card) to participate, but any may observe for free.
+- **Trash Talk: The Voices of Gachiakuta** — 1:30 PM–2:30 PM | Union Ballroom | Main Events 1 | Guest Panel
+  - Who said trash can't be treasure? Dig through the junkyard of behind-the-scenes stories with the English cast of Gachiakuta! Join Bryson Baugus, Corey Wilder, and Katie Caruso as they sift through memorable moments from the recording booth, share the dumpster-load of work that goes into bringing their characters to life, and answer your burning questions. Expect laughs, voice acting stories, fan Q&A, and maybe a little glorious chaos along the way!
+- **Learn From MY Mistakes** — 1:45 PM–2:45 PM | A114-115 | Panels 3
+  - "We all know that we can learn so much from our mistakes - but who has time for that? Come learn from MY mistakes! In this panel I will showcase my cosplay mistakes over the last 10+ years, what I learned from them and how I applied that knowledge later. We'll touch on design & construction failures, fabric choices, wigs and quick fixes while at events. ""Failure"" is not a bad word - it's simply a chance to learn something new!"
+- **THE Just Roll With It Panel** — 1:45 PM–2:45 PM | A120-122 | Panels 4
+  - Just Roll With It is an absurdly funny TTRPG podcast with multiple campaigns, stories, and bits that will make you say “WOW that’s absurdly funny!” That aside, the panel will have some minor spoilers as we discuss characters, lore, and everything in between.
+- **Roxie Drag Show** — 1:45 PM–3:00 PM | Regency Ballroom | Main Events 2 | Concert/Show
+  - Dust off your cape and adjust your crown! Roxie D. Mocracy is bringing a high-energy, family-friendly drag spectacle that fuses the magic of drag with all your favorite geeky fandoms.
+- **Kpop Khaos (Jeopardy)** — 2:00 PM–3:30 PM | A123-124 | Panels 5 | Event; Interactive
+- **All Fandoms Photoshoot** — 2:00 PM–3:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **One Piece Photoshoot** — 2:00 PM–3:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Hungry Hungry Hippos** — 2:00 PM–3:00 PM | McKinley | Movement Room | Interactive
+  - Ever wanted to play Hungry Hungry Hippos but actually BE the hippo? Well now’s your chance! A total of four attendees can play as a hippo at once while four other attendees will be assisting their hippos. The first team to collect the most ball pit balls in their basket, wins! All attendees who participate will receive a movement room ribbon and a Matsuricon button!
+- **Dessicatia Day Disaster (Open Legend RPG)** — 2:00 PM–6:00 PM | Morrow | RPG | Gaming
+- **Good Morning, Lancer - Into the Fire (Lancer)** — 2:00 PM–6:00 PM | Morrow | RPG | Gaming; Gaming
+- **Rescue Ribbons: Deadly Airport (Daggerheart)** — 2:00 PM–6:00 PM | Morrow | RPG | Gaming; Gaming
+- **Cyberpunk 2077: Gangs of Night City Learn to Play** — 2:00 PM–5:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - Players take on the role of ruthless gangs vying for control of the underground in the glittering hellhole that is Night City. Clash with other Gangs in the meat or on the Net, as your enterprising band of toughs seeks to gain dominance over the criminal underworld that rules the streets. Only the boldest will be remembered, and your Street Cred will pave your way to the top. - 1-5 players
+- **Pogs Learn to Play** — 2:00 PM–5:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - Take a trip back to the 90s and get your milk caps (pogs) ready! Who can flip the most milk cap over and take the win each round? - No Limit
+- **18+ Anime Under the Radar** — 2:30 PM–4:00 PM | A110-113 | Panels 2 | 18+
+  - There's a lot of anime out there, and only so much time to watch! Sometimes the best shows slip through the cracks, but have no fear - this panel is all about recommending underrated and overlooked series, movies, and manga you may have missed! Swing by and win prizes for knowing the unknown! Note: media containing mature themes will be featured, but this is not a hentai panel.
+- **DIY Leathercraft: Leather Collars** — 2:30 PM–3:30 PM | Fairfield | Workshop
+  - In this panel, we will teach you the basics of leatherworking and guide you through making a personalized leather collar. There will be a 25 dollar materials fee (cash or card) to participate, but any may observe for free.
+- **The World of Remnant: Fairy Tales & Myths in RWBY** — 3:00 PM–4:00 PM | A114-115 | Panels 3
+  - Join an academic librarian and their friends as they uncover the classic myths and fairy tales that inspired the characters of RWBY.
+- **18+ Hellaverse Jeopardy** — 3:00 PM–4:00 PM | A120-122 | Panels 4 | 18+
+  - Come join a fun game of Jeopardy all about the hellaverse. We will have questions from both the Hazbin hotel and Helluva boss series. Where you can win points, prizes and just have a really fun time learning new facts about the franchise we all love.
+- **Go Room** — 3:00 PM–5:00 PM | A127 | Go Room | Interactive
+  - Come Play GO!!nGo is an ancient two-player abstract strategy board game where the main goal is to control more territory than your opponent by placing stones on a grid.
+- **Charity Auction** — 3:00 PM–5:00 PM | Delaware | Panels 1 | Event; Interactive
+  - Every year we have an auction to collect money for our donation to Ohio State University’s The James Comprehensive Cancer Center. We collect some of the coolest swag we can find and get names from the industry to sign them and make them even cooler, then we auction them off to you! TO DATE WE HAVE RAISED OVER $128,000!
+- **Demon Slayer Photoshoot** — 3:00 PM–4:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Miniature Painting with Maid to Be** — 3:00 PM–4:00 PM | Marion | Maid to Be | Gaming; Interactive
+  - Join Maid to Be for an hour of Bardic Inspiration! New and Experienced adventurers alike are provided miniatures, supplies, and guidance for painting a tabletop mini. A good relaxing session to unwind and level up artistic skills!
+- **Free Play** — 3:00 PM–4:00 PM | McKinley | Movement Room | Interactive
+  - Visit the Movement Room during Free Play hours to enjoy access (with badge) to several classical games.. But in giant form! We have Giant Jenga, Giant Connect 4, Giant Yahtzee, Giant Sorry, Giant Uno and more! We are confident that there will be something fun for everyone here in the Movement Room, so stop on by!
+- **A Symphony for the Submerged (City of Mist)** — 3:00 PM–6:00 PM | Morrow | RPG | Gaming; Gaming
+- **Escape From The Circus (D&D 5e)** — 3:00 PM–7:00 PM | Morrow | RPG | Gaming; Gaming
+- **Rifts (Rifts)** — 3:00 PM–7:00 PM | Morrow | RPG | Gaming; Gaming
+- **Crokinole Learn to Play** — 3:00 PM–6:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - Players take turns shooting discs across the circular playing surface, trying to land their discs in the higher-scoring regions of the board, particularly the recessed centre hole of 20 points, while also attempting to knock opponents discs off the board or into the ditch. - 2-4 players
+- **BERRY Live Show** — 3:00 PM–3:30 PM | Union Ballroom | Main Events 1 | Guest Panel; Concert/Show
+  - How sweet is everyone’s favorite idol? “BERRY” sweet! BERRY is an American-based J-Pop artist that has travelled the world performing her original, upbeat music. Turn your penlights pink and light blue and get ready for the “berry” sweetest show of a lifetime!
+- **One Piece Tournament Gundam TCG Tournament** — 3:00 PM–4:00 PM | Windows | CCG | Gaming; Tournament
+- **Yu-Gi-Oh! Standard Tournament** — 3:00 PM–5:00 PM | Windows | CCG | Gaming; Tournament
+- **Convention Photography 101** — 3:45 PM–4:45 PM | A123-124 | Panels 5
+  - """Want to take photos at cons, but don't know how to start? Already taking photos, but interested in how others approach things? Want to have smoother fandom shoot experiences? This panel is your chance to learn! Join a hobbyists photographer with over a decade of experience, as he discusses everything from con etiquette to making the most of the gear you have"""
+- **AMV Contest** — 3:45 PM–6:00 PM | Regency Ballroom | Main Events 2 | Event
+  - The Matsuricon V.E.S. AMV Contest is back for our 8th installment. Come watch a showcase of the submissions and even vote on your favorite!
+- **Resin Flower Jewelry Workshop** — 4:00 PM–6:00 PM | Fairfield | Workshop
+  - Take a break from your regularly scheduled convention activities to learn how to make and craft your own beautiful resin flower. This workshop, taught by professional fabricator and cosplayer StrayCatGee, will give you all the tools and materials required to leave with a flower of your own. Make a cool thing and learn something new, all ages and skill-levels welcome. This is a workshop panel where all materials will be provided: attendees will be charged $20 (card/cash/PayPal/Venmo)
+- **Dragon Ball FighterZ** — 4:00 PM–5:30 PM | Franklin | Video Gaming | Gaming; Gaming; Tournament; Tournament
+- **Escape Room** — 4:00 PM–12:00 AM | Garfield | Escape Room | Interactive
+- **Devil May Cry Photoshoot** — 4:00 PM–5:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Kigurumi Photoshoot** — 4:00 PM–5:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Miniature Painting with Maid to Be** — 4:00 PM–5:00 PM | Marion | Maid to Be | Gaming; Interactive
+  - Join Maid to Be for an hour of Bardic Inspiration! New and Experienced adventurers alike are provided miniatures, supplies, and guidance for painting a tabletop mini. A good relaxing session to unwind and level up artistic skills!
+- **Cosplay Chess** — 4:00 PM–6:00 PM | McKinley | Movement Room | Interactive
+  - We supply the Chess board, you supply the chess pieces! Come participate in our live action chess while dressed as one of your favorite characters! Attendees can also participate by being one of the game masters to help guide their cosplay chess team to victory. Participation Matsuricon themed ribbons and buttons will be given out to those who play.
+- **The Curious World Within Obijima (D&D 5e: Obijima)** — 4:00 PM–8:00 PM | Morrow | RPG | Gaming; Gaming
+- **Bey-Wheelz Bowling** — 4:00 PM–6:00 PM | Windows | CCG | Gaming
+- **From Cosplay to Catwalk: The Intersection of Nerds & Drag Performers** — 4:15 PM–5:15 PM | A110-113 | Panels 2
+  - What happens when high fantasy meets high fashion? From Cosplay to Catwalk: The Intersection of Nerds & Drag Performers explores the deeply connected worlds of geek culture and drag artistry.
+- **Anime Fued** — 4:15 PM–5:45 PM | A114-115 | Panels 3
+  - Fun for the whole family come join us as we play family feud with an anime twiste of course. We will ask volunteers from the audience to make are two teams. So come test out anime knowledge.
+- **The Most Underrated Sports Anime: Ace of Diamond** — 4:15 PM–5:00 PM | A120-122 | Panels 4
+  - Still chasing that Blue Lock high? Or maybe you caught the Haikyuu craze in 2020 and are looking for the next best thing? Enter Ace of Diamond: the best sports anime you’ve never heard of—and get ready for it to raise your standards through the roof.
+- **Cosplay Masquerade** — 4:30 PM–7:00 PM | Union Ballroom | Main Events 1 | Event
+  - A dazzling and wonderful event for those wanting to show off their hard work on their amazing cosplays and skit performances. You might see some old nostalgic series, some newer ones, maybe even some dancing, singing, and other shenanigans! Bring your penlights, and ready your hands for some intense clapping for the eagerly awaited competition.
+- **Nat One Presents - D&D&Anime: The Game Show!** — 5:00 PM–6:00 PM | A123-124 | Panels 5
+  - Ever wondered how it would look if D&D and anime had a crossover? Come to this game show (with Q&A after) for a chance to become your favorite anime character and beat your favorite anime villains with D&D rules!
+- **Chainsaw Man Phototshoot** — 5:00 PM–6:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **EPIC the Musical Photoshoot** — 5:00 PM–6:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Night Market** — 5:00 PM–12:00 AM | Hayes | Night Market
+  - Step into a room inspired by the feeling of a traditional Japanese matsuri. Discover local creativity, linger among the displays, and make time for a few games while the convention night is still young.nDaruma Otoshi (Doll Drop)nnKingyo Sukui (Goldfish Scoop)nnTwo favorites to look for among the Night Market’s rotating festival games.nnMARKET STOP // MAKERSnnMeet Local ArtistsnNight Market experiencenBrowse beautiful art and clever creations from talented artists in a relaxed, after-hours setting.nnEXPLORE THE MARKETnnMARKET STOP // GAMESnnTry Matsuri ClassicsnNight Market experiencenTake on traditional favorites like Daruma Otoshi and Kingyo Sukui, plus more festival-style games.nnPICK UP GAME TICKETSnnMARKET STOP // PRIZESnnPlay to WinnNight Market experiencenEarn tickets at the game stations, then exchange your winnings for a fun prize before the night ends.
+- **Maid to Be - Board Game Session** — 5:00 PM–6:00 PM | Marion | Maid to Be | Gaming; Interactive
+  - Relax and unwind as the colorful cast of the Maid to Be Guild plays a board game together with you! Whether it is a simple party game, or something a bit more heavy-weight, our game library is sure to have something for everyone. Don't know how to play? No worries, our maids and butlers will help guide you. Fair warning though-- some of us don't lose so easily!
+- **Rigging the Competition (Everyone is John)** — 5:00 PM–8:00 PM | Morrow | RPG | Gaming; Gaming
+- **Joking Hazard Let’s Play** — 5:00 PM–8:00 PM | Taft C/D | Tabletop Gaming | 18+; Gaming
+  - A game in which you compete with your friends and enemies to finish an awful three-panel comic, from a deck of cards with millions of possible combinations. - 3-10 players 18+
+- **DeathBall 2v2** — 5:00 PM–7:30 PM | Union | Arcade | Gaming; Gaming; Tournament; Tournament
+- **Flesh and Blood Tournament** — 5:00 PM–6:00 PM | Windows | CCG | Gaming; Tournament
+- **18+ Do It For The Vine pt.2 Electric Boogaloo** — 5:15 PM–6:15 PM | A120-122 | Panels 4 | 18+
+  - We're back and bigger than ever! Join us as we relive the past that is Vine. STAPHHH I COULD'VE DROPPED MY CROSSIANT!
+- **Next Time on Dragon Ball: Playing With a Manga and Anime Franchise by Vincent Haddad** — 5:15 PM–6:15 PM | Delaware | Panels 1 | Partner Panel
+  - Next Time on Dragon Ball: Playing With a Manga and Anime Franchise by Vincent HaddadnSince its debut in 1984, Dragon Ball has become one of the most popular, influential, and lucrative media franchises in the world. In Next Time on Dragon Ball, Vincent Haddad investigates how the franchise has maintained huge global demand despite its formulaic plotlines. Examining its exhaustive repetition of storytelling forms across comics, TV series, games, and merchandise, Haddad argues that the convergence of play, fandom, and narrative made Dragon Ball an unlikely success—and a harbinger of broader shifts in the media landscape of franchises from the 1980s to the present.nHaddad conceives of Dragon Ball as a “franchise toy,” a corporate media property that is constantly remixed by its fans in ways that its owners resist but also ultimately embrace: appropriation is essential to the franchise’s popularity. Over the past forty years, Haddad argues, Dragon Ball’s deployment of familiar tropes, cultural references, and narrative forms—from classical Chinese stories and the films of Bruce Lee and Jackie Chan to American franchises like Superman and Star Wars—has invited unique transcultural play. Through diverse examples of how fans use its characters as “playthings,” Haddad shows how Dragon Ball travels across international networked fandoms, highlighting the queer, gendered, and racialized dimensions of this play.nParsing the dynamics of “sites of conflict” between authorized media and fan content, Next Time on Dragon Ball illuminates how fan engagement across the Americas changes the parameters of what a manga and anime franchise is and can be.
+- **18+ What in the Wattpad** — 5:30 PM–6:30 PM | A110-113 | Panels 2 | 18+
+  - What in the Wattpad is going on?! What happened to all the fanfic? Where are all of you creative writers? Well, here's your opportunity to get those creative juices flowing with a short fanfic writing competition.
+- **Marvel Tokon** — 5:45 PM–7:45 PM | Franklin | Video Gaming | Gaming; Gaming; Tournament; Tournament
+- **Posing for cosplay 101 Scarlett Mafia panels** — 6:00 PM–7:30 PM | A114-115 | Panels 3
+  - Are you stuck with static cosplay shots? Unsure how to make your image more dynamic. Well fear not join Scarlett Mafia to learn simple posing as well as some more advanced poses from people who have not not only been doing this for an ungodly amount of time but are also published models! We promise to give you some insight to make your cosplay photos pop!
+- **Badge Ribbon Meetup** — 6:00 PM–7:00 PM | Harrison | Photoshoots | Meetup
+- **Con of the Dead Game (Dread)** — 6:00 PM–11:00 PM | Morrow | RPG | Gaming
+- **One Piece: Egghead Testing Protocol (D&D 5e 2024)** — 6:00 PM–10:00 PM | Morrow | RPG | Gaming; Gaming
+- **Convention Foam Fighting (CFF)** — 6:00 PM–10:00 PM | Taft A/B | CFF | Interactive
+- **Crokinole Tournament** — 6:00 PM–9:00 PM | Taft C/D | Tabletop Gaming | Gaming; Tournament
+  - Players take turns shooting discs across the circular playing surface, trying to land their discs in the higher-scoring regions of the board, particularly the recessed centre hole of 20 points, while also attempting to knock opponents discs off the board or into the ditch. - 2 players - 20 mins per round tournament style - 20 players enter with a waitlist
+- **Digimon Tournament** — 6:00 PM–7:00 PM | Windows | CCG | Gaming; Tournament
+- **Pokemon Standard Tournament MTG Modern Tournament** — 6:00 PM–7:00 PM | Windows | CCG | Gaming; Tournament
+- **Wa Wa World - A Hetalia Panel** — 6:15 PM–7:45 PM | A123-124 | Panels 5
+  - Come join us to learn about the wonderful crazy beautiful world of Hetalia. In this panel we will be going over the wacky history you may or may not already know. From it's confusing fight with Homestuck to the all to well known shipping wars of the early 2010's. It's a series and fandom that is still making an impact to this very day.Don't forget to Draw a Circle that's the Earth!~ <3
+- **Let's Odori** — 6:15 PM–7:15 PM | McKinley | Movement Room
+  - Summer means festival season and that means dancing! Join members of the Ohio Awa Odori dance troupe to learn classic Obon dances.
+- **From Battlefield to Budo: The Art of Naginata** — 6:15 PM–7:00 PM | Regency Ballroom | Main Events 2 | Event; Partner Panel
+  - Discover your new favorite martial art with the Columbus Naginata Club. Learn how this traditional polearm evolved from battlefield weapon to feminine icon to modern budo, then watch practitioners showcase elegant kata, dynamic sparring (shiai), and the techniques, strategy, and spirit that make naginata a unique martial art. Attendees have the chance to win 1 of 10 coveted spots for a free intro class on Sunday!
+- **18+ Okaku ink** — 6:30 PM–7:30 PM | A120-122 | Panels 4 | 18+
+  - History of Japanese tattoos into the evolution of anime tattoos we all love today. Including some of our favorite anime characters with ink of there own.
+- **Old Master Q: The Longest Running Strip in China** — 6:30 PM–7:30 PM | Delaware | Panels 1 | Partner Panel
+  - In this talk with Professor CM Campbell, we will be looking at the work of Old Master Q artist Alfonso Wong. Wong's work with Old Master Q dates back to 1962 and has since been adapted across multiple media, including television and film. We will also be looking at several excerpts from the strip in classic issues of Master Q Magazine.
+- **Armor Academy: Chainmail Plushies** — 6:30 PM–7:30 PM | Fairfield | Workshop
+  - In this panel, we will teach you how to make an entire shirt of chainmail – scaled down to plushie size! Bring your own plushie, or use one of the stuffed animals provided. There will be a 25 dollar materials fee to participate (cash or card), but any may observe for free.
+- **Devil's Advocate: How to Write a "Good" Villain** — 6:45 PM–7:45 PM | A110-113 | Panels 2
+  - A hero is only as good as their villain, and the best villains are the ones we love to hate. But how do you avoid the pitfalls of making your villain too flat, or too lame, or “evil for the sake of being evil”? In this lecture we’ll discuss the morals, motives, and modus opperandi of some famous villains, the nuances of antiheros, antagonists, and villains, and how to cut Satan a break—there are much more interesting and sinister figures for inspiration for your big baddies. A Q and A will follow.
+- **Roll for Revelry: Dungeon Delve with Maid to Be** — 7:00 PM–8:00 PM | Marion | Maid to Be | Gaming; Interactive
+  - The panel becomes the party! Hosted by the elven MC Ephraim, join Maid to Be for a dungeon delve inspired by classics of the choose-your-own-adventure genre and the creativity of old-school RPGs.
+- **At The Edge of Nothing (Cyberpunk 2020)** — 7:00 PM–11:00 PM | Morrow | RPG | Gaming; Gaming
+- **Call of Cathulhu: Gone Astray (Call of Cathulhu)** — 7:00 PM–11:00 PM | Morrow | RPG | Gaming; Gaming
+- **Deadlands: The Harrowed Protocol (Deadlands)** — 7:00 PM–11:00 PM | Morrow | RPG | Gaming; Gaming
+- **Heist on The Ghostflame Express (Daggerheart)** — 7:00 PM–10:00 PM | Morrow | RPG | Gaming
+- **Starlight Runners (D&D 5e: Neon Odyssey)** — 7:00 PM–11:00 PM | Morrow | RPG | Gaming; Gaming
+- **Epic Spell Wars of the Battle Wizards Tournament** — 7:00 PM–10:00 PM | Taft C/D | Tabletop Gaming | Gaming; Tournament
+  - Did you know that magical wizards are battling to the death ... and beyond ... right now!? "Why battle?" you might ask. "What have I got to prove, magic man?" Only who's the most awesomely powerful battle wizard in the entire realm, that's what! As a Battle Wizard, you'll put together up to three spell components to craft millions (okay, not really) of spell combos. Your spells might kick ass, or they could totally blow – it's up to you to master the magic. You will unleash massive damage on the faces of your wizard rivals in a no-holds-barred, all-out burn-down to be the last Battle Wizard standing. And it doesn't stop there! Powerful magic items bring on a whole new level of bloody carnage as you and your mighty wizard opponents tear each other limb from limb in an orgy of killing! - 2-6 players
+- **HeroClix Learn to Play** — 7:00 PM–10:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - A tactical combat miniatures game where you put heroes and villains from your favorite comics, movies, and TV shows in head-to-head combat. - 2 players
+- **KPOP Random Dance with CODE** — 7:30 PM–9:30 PM | McKinley | Movement Room
+  - Come dance with us! There will be something for every kpop fan; newbies and oldies alike! Free water will be provided as well!
+- **Milkyway Heartbeat of the Cosmos** — 7:30 PM–9:45 PM | Regency Ballroom | Main Events 2 | Concert/Show
+  - Get ready to be amazed! Milkyway Idols are taking the stage for a spectacular performance and hosting a charity raffle for a good cause. Don't miss out!
+- **Your Kid SHOULD Watch Cartoons** — 7:45 PM–8:45 PM | A114-115 | Panels 3
+  - Inspired by her day job in the classroom, the Weeb Hedge Witch has been on a mission to find the best cartoons for early childhood development. During this panel, we will go over some nostalgic favorites and new gems in “low-stim” animation. All the while, talking about how these cartoons benefit early learning and social growth. Whether you’re a parent looking for media recommendations for your child, or an adult looking for their next wholesome watch, this is the panel for you!
+- **Oldtaku Trivia Hour** — 7:45 PM–8:45 PM | A120-122 | Panels 4
+  - Tired of the basic anime quizzes that are so easy they are boring? Want a chance to flex that esoteric knowledge that only comes from years of Anime knowledge? Put yourself against the whole audience for these 2 anime kahoots, and earn the right to call yourself an oldtaku.
+- **18+ What Makes an "ILF"?** — 7:45 PM–9:45 PM | Delaware | Panels 1 | 18+
+  - “Some are born sexy, others have sexiness thrusted upon them” - Oscar Wilde, or something. Come see what it takes to be categorized as a MILF, DILF, GILF, and THILF?? Will your husbando or waifu make the cut??
+- **Dragons, Cryptids, and Dinos, OH MY!** — 8:00 PM–9:00 PM | A110-113 | Panels 2
+  - Learn how to craft vibrant, exotic creature characters for your stories and artwork by studying zoology, paleontology, folklore, history, and a menagerie of other authors’ work. We will also dissect a dragon—from inspiration, to designing, to writing his story and crafting a maquette for drawing. A Q and A will follow.
+- **Karaoke** — 8:00 PM–11:00 PM | A123-124 | Panels 5 | Interactive
+- **DIY Ribbon Workshop: How to create your own Ribbons** — 8:00 PM–9:30 PM | Fairfield | Workshop
+  - Have you wonder how to create your own badge ribbon? Well in this workshop class you get a chance to create your own ribbons. Each person will receive a kit of create your own unique 10 pack of ribbons. There is a limited of 50 people. Cost is $5.00 per person Hosted by Ribbon Guardians
+- **Tekken 8 1v1** — 8:00 PM–10:30 PM | Franklin | Video Gaming | Gaming; Gaming; Tournament; Tournament
+- **Maid to Be - Board Game Session** — 8:00 PM–9:00 PM | Marion | Maid to Be | Gaming; Interactive
+  - Relax and unwind as the colorful cast of the Maid to Be Guild plays a board game together with you! Whether it is a simple party game, or something a bit more heavy-weight, our game library is sure to have something for everyone. Don't know how to play? No worries, our maids and butlers will help guide you. Fair warning though-- some of us don't lose so easily!
+- **Murder at Holmfirth Hall (D&D 5e)** — 8:00 PM–12:00 AM | Morrow | RPG | Gaming; Gaming
+- **The Black Ballad (D&D 5e 2024)** — 8:00 PM–11:30 PM | Morrow | RPG | Gaming
+- **Zaibatsu Learn to Play** — 8:00 PM–11:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - The game is set in a cyberpunk future, players represent supercorporations rivals, the Zaibatsu, who struggle to obtain the domain and control of the global network of information, Cybernet and for this we serve a large number of agents, mercenaries pawns they use to achieve their targets. Zaibatsu is a print and play cyberpunk-themed game, each player in game can move pawns, attack the pawns controlled by other players, put new hexagonal blocks to expand the modular board or gain control of the existing blocks to dominate the board and win the game - 2-4 players
+- **Street Fighter III: 3rd Strike** — 8:00 PM–11:00 PM | Union | Arcade | Gaming; Gaming; Tournament; Tournament
+- **Electric Dance Matsuri** — 8:00 PM–2:00 AM | Union Ballroom | Main Events 1 | Event; Interactive
+  - Grab your glowsticks and put on those furry boots, it’s time for Electronic Dance Matsuri! A late night immersive event filled with dynamic, high-energy performances, vibrant light displays, and a collective atmosphere of celebration and freedom. Spread peace, love, unity, and respect while our DJs rock the house with stellar beats. Let go and lose yourself in the music as we dance together as one community!
+- **Black and Nerdy, 10th anniversary edition** — 9:00 PM–10:00 PM | A114-115 | Panels 3
+  - We have lived the experiences, and shared our Melanated Magic with the cosplay and convention community for over 10 years running! Please join us to hear discussion of our experiences with the nerd herd, and discuss your own ups and downs of being a POC in the convention scene.
+- **Representation Done Right** — 9:00 PM–10:00 PM | A120-122 | Panels 4
+  - A lot of the talk about diverse casts can be unfortunately negative. So instead, let's celebrate the good examples of diverse representation in the media we love, and the progress that has been made over the years!
+- **Werewolf** — 9:00 PM–10:00 PM | Marion | Maid to Be | Gaming; Interactive
+- **Kingdom Builder Learn to Play** — 9:00 PM–12:00 AM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - Players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. - 2-4 players
+- **Your Bias is Showing** — 9:15 PM–10:00 PM | A110-113 | Panels 2
+  - K-pop fans, where are you!? Come describe your favorite K-pop star and see if others can guess them. Let's see if your bias is showing.
+- **18+ Speed Friending: Find Your Anime Squad!** — 9:45 PM–11:15 PM | Fairfield | Workshop | 18+
+  - Have you ever wanted to make friends that share the same nerdy interests as you? Maybe you didn't have the chance, or you were too nervous to initiate conversation. At this event, we'll help you quickly meet other anime fans in a low-pressure, fun, structured way!
+- **Kpop Hangz with Mars!!** — 9:45 PM–11:15 PM | McKinley | Movement Room
+  - Everyone loved Bigsana's kpop spins. Now that he is no longer with us; I'm gonna try and take the lead!Listen to kpop bangers with mars, and trade photocards! Anywhere from 2nd gen to whatever new gen you kids request! Dance if you know the choreo! RPD HALFWAY THROUGH!
+- **Otome Games: Love Interest Loading…** — 10:00 PM–11:00 PM | Delaware | Panels 1
+  - Ready to unlock your next favorite love interest? Welcome to otome games, where the drama is high, the romance is intense, and 2D men keep leading us to bad decisions. We’re diving into the history, tropes, and cheesy storylines of the genre, with plenty of recommendations to add to your growing “need to play” list.
+- **Beaches 'n' Booty: Castle RAVE'nloft (D&D 5e) [18+]** — 10:00 PM–2:00 AM | Morrow | RPG | 18+; 18+; Gaming; Gaming
+- **The Gas Station (Instant Horror) [18+]** — 10:00 PM–2:00 AM | Morrow | RPG | 18+; 18+; Gaming; Gaming
+- **The Silent Hall (World of Darkness) [18+]** — 10:00 PM–2:00 AM | Morrow | RPG | 18+; 18+; Gaming; Gaming
+- **KK Slider Concert** — 10:00 PM–11:45 PM | Regency Ballroom | Main Events 2
+  - We're back on the from pup to big dog tour! Come see dj kk play all your favorite hits! Dance and even bring your switches to have fun on your island!
+- **Secret Hitler Let's Play** — 10:00 PM–1:00 AM | Taft C/D | Tabletop Gaming | 18+; Gaming
+  - Players are secretly divided into two teams: the liberals, who have a majority, and the fascists, who are hidden to everyone but each other. If the liberals can learn to trust each other, they have enough votes to control the elections and save the day. But the fascists will say whatever it takes to get elected, advance their agenda, and win the game. - 5-10 players 18+
+- **MTG Commander Tournament** — 10:00 PM–12:00 AM | Windows | CCG | Gaming; Tournament
+- **18+ Have You Heard of The Bible...Black?** — 10:15 PM–11:45 PM | A110-113 | Panels 2 | 18+
+  - “Bible Black? Yeah, I watched it for the ‘plot’.” Really? Well /I/ watched it for the religious experience! See how such a ‘Holy’ hentai came from divine inspiration!
+- **Nat One Presents - Bestie Battle** — 10:15 PM–11:15 PM | A114-115 | Panels 3
+  - Think you and your bestie are the bestest of besties? Come prove it in a showdown of friendship, where your bestie knowledge will be put to the test!
+- **PMA** — 10:15 PM–11:00 PM | A120-122 | Panels 4
+  - Have you ever just felt down in the dumps and needed some way to cheer yourself up? I have a distinct feeling that some inspirational anime quotes and memes will give you a positive mental attitude.
+- **Blood on the Clocktower Learn to Play** — 11:00 PM–2:00 AM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - During a hellish thunderstorm, a scream echoes through the sleepy town of Ravenswood Bluff. The townsfolk rush to investigate and find the beloved local storyteller has been murdered, their body hanging limp from the clocktower. As blood drips onto the cobblestones below, a realization slowly dawns… a demon has been unleashed, killing by night and taking on human form by day. Can good find the demon in time? Or will evil overrun this once peaceful town? - 6-12 players
+- **18+ Let's Explore BL Visual Novels** — 11:15 PM–12:15 AM | A120-122 | Panels 4 | 18+
+  - Come explore the world of Boy's Love Visual Novels! We'll give a (mostly spoiler-free) overview of various novels, their stories, and their characters; perhaps you'll find your new favorite!
+- **Everything Murder Drones** — 11:15 PM–12:15 AM | A123-124 | Panels 5
+  - Do you love this show too, or do you want to like it but find it too confusing and fast paced to understand? This panel is for you! I’ll explain all the plot points, the full story in timeline order, and talk about the hidden details that make this show so awesome!
+- **18+ For the Girlies** — 11:15 PM–12:30 AM | Delaware | Panels 1 | 18+
+  - It's not just BookTok out here with spicy content made by women for women. Manga and Webtoons have their fair share as well but with PICTURES. Let's take a look into the depravity of only the finest of girls' media.
+- **Kimono in Summer** — 11:30 PM–12:30 AM | A114-115 | Panels 3
+  - Join is in discussing how to survive hot weather and still enjoy wearing kimono. We'll check out different textiles and accessories made to match Ohio's muggy months and how to look cool, even if you're not.
+- **Battle Century G** — 11:30 PM–12:30 AM | Fairfield | Workshop
+  - This one-shot session will introduce players to Battle Century G in a digestible and easy to understand manner. Build, customize, and fight with your favorite giant robot in this tabletop adventure unlike any other! Players of all experience levels are welcome.
+
+## Sun, September 6, 2026
+
+- **18+ Anime Waifu Tier Battle** — 12:00 AM–1:00 AM | A110-113 | Panels 2
+  - Join us in tiering Matsuricons most popular waifus. There will be laughter, tears, and alot of slander.
+- **Guess that Anime Opening!!!** — 12:00 AM–2:00 AM | Regency Ballroom | Main Events 2
+  - Welcome back to the third year of Guess that Anime Opening!!! With your favorite returning hosts.It's a game show to test your opening, and maybe some endings, knowledge. Winners will receive fabulous prizes...even those unlucky enough not to win will receive something for just trying! Animes new and old, popular and underrated, or even just forgotten will be mixed in. Of all genres as well...from Horror to Romance to Action. It's a game for everyone!!!
+- **18+ Ecchi? You Said There Was Plot!** — 12:30 AM–2:00 AM | A114-115 | Panels 3 | 18+
+  - "If you fall under the ace umbrella, or prefer ecchi anime with more plot than ""plot""/over-the-top anime jiggle-physics, then this panel is for you! Instead of sifting through hours of ecchi series just to find one you'd enjoy, now you can get thorough breakdowns of many different series from a pop culture academic who's already lost hundreds of hours of his life trying to find the plot in a genre notorious for not having strong plot."
+- **18+ WTF are we listening to?** — 12:30 AM–2:00 AM | A120-122 | Panels 4 | 18+
+  - Ever hear lyrics wrong? Ever sing a song as a child that you know now was extremely inappropriate? Come join us to have fun, laugh, hear some interesting facts on the songs you know and love, and to jam out to some of your favorite songs.
+- **Expelliarmus: Disarming the Idea Harry Potter is a Good Fantasy Series** — 12:30 AM–1:30 AM | A123-124 | Panels 5
+  - Do you also think Harry Potter is a bad fantasy series? Or do you like the series? Come have a light hearted debate or vent your frustrations with the notable series Harry Potter. There are plenty of issues with the series like bad magical system, lost plot lines, and characters who should be better so come listen to all of them and maybe even contribute issues of your own.
+- **Name that Aanime from letterboxd review** — 12:45 AM–1:45 AM | Delaware | Panels 1 | 18+
+  - The premise is simple, try to match the short review/statement to an anime. Thats all there is to it, can you decipher actually thought was a fitting statement for an anime?
+- **18+ Heated rivalry** — 1:15 AM–2:00 AM | A110-113 | Panels 2
+  - Did you enjoy the Heated Rivalry show? Have you read the books? Come discuss your favorite moments, ships and all things Heated Rivalry!!! 18+ only!!!!
+- **Registration** — 9:00 AM–2:00 PM | Nationwide | Registration
+- **Fanfic into Fiction** — 10:00 AM–11:30 AM | A110-113 | Panels 2
+  - The fanfic to traditionally published pipeline is just getting bigger. The Big Five are noticing the popularity and validity of fanworks, and it's never been a better time to learn how to transition your work from fanfic into an original published masterpiece for publication. Fanfic writer and traditionally published author Kristina Elyse Butke will guide you on how to prepare your fanfics for traditional submission or self-pub.
+- **Origami & Chill: The Second Fold** — 10:00 AM–11:30 AM | A114-115 | Panels 3
+  - Come vibe with us and fold some cute paper! A hands on, self instructed panel with supplies and fold designs. Bring your coffee, a friend or anything in-between to enjoy with our lofi beats~
+- **Photo Arena** — 10:00 AM–4:00 PM | Eisenman | Photo Arena | Interactive
+- **Exhibit Hall** — 10:00 AM–4:00 PM | Exhibit Hall | Exhibit Hall
+- **Adventure Room** — 10:00 AM–4:00 PM | Garfield | Escape Room | Interactive
+  - Step into a living fantasy world where your choices, abilities, and teamwork shape the story. In ARC Fantasy, you create a character with unique powers that determine how you explore, solve puzzles, and uncover secrets." Smartphones are used to access character abilities. Each game last one hour per group and is free to badge holders. Sign up using the link below or sign up by scanning the QR code at Garfield. Link to sign up page: https://ti.to/experimental-gamer/arcfantasy-matusircon-2026 Note: Not ready to book? Visit the FREE Tavern located in Garfield to try it out first.
+- **Cosplay Repair** — 10:00 AM–2:00 PM | Grant & Harding | Cosplay Repair
+  - A snapped strap or loose seam does not have to end your con day. Our volunteer makers have the tools, supplies, and know-how to help with light costume repairs. With ample supplies and plenty of know-how, the Matsuricon Cosplay Repair Room has just about everything attendees need to touch up or mend a cosplay. Our staff can answer questions, offer solutions, and help find the right tools for the repair.
+- **Manga Lounge** — 10:00 AM–4:00 PM | Madison | Manga Lounge | Interactive
+  - With more than 4,000 titles, a massive selection of figures and statues, and even more to discover, Otaku Manga Lounge is a destination for anime and manga fans. Stop by the Manga Library to read from more than 1,000 titles, then check them out in the Exhibitor Hall.
+- **Lancer: Out in the Open (Lancer)** — 10:00 AM–3:00 PM | Morrow | RPG | Gaming; Gaming
+- **Miniature Paint & Take** — 10:00 AM–4:00 PM | Morrow | RPG | Gaming; Gaming
+- **Rescue Ribbons: Parks and Wrecked (Daggerheart)** — 10:00 AM–3:00 PM | Morrow | RPG | Gaming; Gaming
+- **Warriors of the Light Unite! (Big Eyes, Small Mouth)** — 10:00 AM–3:00 PM | Morrow | RPG | Gaming; Gaming
+- **Matsuri Ink** — 10:00 AM–4:00 PM | Ohio Board Room | Matsuri Ink | Interactive
+  - Whether you are a tattoo enthusiast or simply curious about the artistry, Matsuri Ink is your chance to explore remarkable designs, meet talented artists, and find inspiration for your own creative journey.
+- **Convention Foam Fighting (CFF)** — 10:00 AM–3:00 PM | Taft A/B | CFF | Interactive
+  - Step into a live fantasy battle where foam weapons, fast-moving action, and beginner-friendly coaching turn every attendee into part of the adventure. Convention Foam Fighting is a live-action entertainment group that combines the excitement of fantasy combat with accessible, safety-minded gameplay. Participants play at no additional cost beyond their convention badge, and every piece of equipment is provided so newcomers can step straight into the action. Entertainers and coaches keep the experience welcoming, energetic, and easy to learn while building a community around the shared thrill of an unforgettable battle.
+- **Crokinole Tournament** — 10:00 AM–1:00 PM | Taft C/D | Tabletop Gaming | Gaming; Tournament
+  - Players take turns shooting discs across the circular playing surface, trying to land their discs in the higher-scoring regions of the board, particularly the recessed centre hole of 20 points, while also attempting to knock opponents discs off the board or into the ditch. - 2 players - 20 mins per round tournament style - 20 players enter with a waitlist
+- **King of Tokyo Learn to Play** — 10:00 AM–1:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - Play mutant monsters, gigantic robots, and strange aliens—all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo. - 2-6 players
+- **Mahjong** — 10:00 AM–3:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+- **Crokinole Tournament** — 10:00 AM–1:00 PM | Taft CD | Tabletop Gaming | Gaming; Gaming; Tournament; Tournament
+- **King of Tokyo Learn to Play** — 10:00 AM–1:00 PM | Taft CD | Tabletop Gaming | Gaming; Gaming; Learn to Play; Learn to Play
+- **Mahjong** — 10:00 AM–3:00 PM | Taft CD | Tabletop Gaming | Gaming; Gaming
+- **BERRY Q&A** — 10:00 AM–11:00 AM | Union Ballroom | Main Events 1 | Guest Panel; Interactive
+  - Join BERRY, the “berry” sweetest idol, for an up-close Q&A session.
+- **Cosplay Feedback** — 10:15 AM–11:15 AM | A120-122 | Panels 4
+  - Feedback for anything related to Matsuricon 2026's Cosplay-related events. Come meet & greet our cosplay staff and learn about the behind the scenes, as well as give us your thoughts! If you competed in the Masquerade, come talk to the judges to receive feedback and your scores!
+- **Pokemon wilderness survival** — 10:15 AM–11:45 AM | A123-124 | Panels 5
+  - Do you want to learn how to survive the pokemon world? Which pokemon are safe? Well today is your lucky day! Pokemon rangers are here to save the day! Learn the in and outs of the pokedex with a ranger handbook of your own! Trivia and other games will be included as well!
+- **Tokusatu Henshin Pose Quiz!** — 10:15 AM–11:15 AM | Delaware | Panels 1
+  - Much like Quiz from Kamen Rider Zi-O, put your Tokusatsu knowledge to the test in guessing who the henshin pose belongs to! Prizes will be up for grabs in this three person Quiz show! Hope to see you henshin!
+- **Cosplay and Material Supply Swap** — 10:15 AM–11:15 AM | Fairfield | Workshop
+  - We know you have materials leftover from that one cosplay you made five years ago that you'll never use, or some fabric from that cosplay you never made and probably never will. Or maybe you have actual cosplays in your closet that are taking up space, never worn. Bring all of that with you to this panel and you can swap the things that you won't use for stuff that you will! NO MONEY WILL EXCHANGE HANDS. This is for trading or giving away your materials. All crafting material is welcome and you don't need to bring anything to come check out what people are giving away!
+- **Two's Mini Game Battle** — 10:30 AM–11:30 AM | McKinley | Movement Room
+  - Two is looking for new contestants to try out their brand new challenges! Come join in on the fun and play a multitude of fun games for all to play! We will be playing interactive games like 4 corners, freeze dance, musical chairs, and more!
+- **Directing Anime** — 10:30 AM–11:15 AM | Regency Ballroom | Main Events 2 | Guest Panel
+  - If you love to dive “deep into the weeds” about Anime production, this is the panel for younIn this hour, Veteran Voice Director Tony Oliver discusses his approach to directing and to directingnAnime in particular. He’ll share some tricks of the trade, give advice to aspiring directors and answer allnyour questions about directing and the people who do it professionally.
+- **Pokemon Expanded Tournament** — 10:30 AM–12:00 PM | Windows | CCG | Gaming; Gaming; Gaming; Gaming; Tournament; Tournament; Tournament; Tournament
+- **Go Room** — 11:00 AM–4:00 PM | A128 | Go Room | Interactive
+  - Come Play GO!!nGo is an ancient two-player abstract strategy board game where the main goal is to control more territory than your opponent by placing stones on a grid.
+- **Witch Hat Atelier Photoshoot** — 11:00 AM–12:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Night Market** — 11:00 AM–4:00 PM | Hayes | Night Market
+  - Step into a room inspired by the feeling of a traditional Japanese matsuri. Discover local creativity, linger among the displays, and make time for a few games while the convention night is still young.nDaruma Otoshi (Doll Drop)nnKingyo Sukui (Goldfish Scoop)nnTwo favorites to look for among the Night Market’s rotating festival games.nnMARKET STOP // MAKERSnnMeet Local ArtistsnNight Market experiencenBrowse beautiful art and clever creations from talented artists in a relaxed, after-hours setting.nnEXPLORE THE MARKETnnMARKET STOP // GAMESnnTry Matsuri ClassicsnNight Market experiencenTake on traditional favorites like Daruma Otoshi and Kingyo Sukui, plus more festival-style games.nnPICK UP GAME TICKETSnnMARKET STOP // PRIZESnnPlay to WinnNight Market experiencenEarn tickets at the game stations, then exchange your winnings for a fun prize before the night ends.
+- **Secret Tournament** — 11:00 AM–3:00 PM | Taft C/D | Tabletop Gaming | Gaming; Tournament
+  - 2 - 10 players - 30 mins per round points based - 20 players enter with a waitlist
+- **Secret Tournament** — 11:00 AM–3:00 PM | Taft CD | Tabletop Gaming | Gaming; Gaming; Tournament; Tournament
+- **Digimon Tournament** — 11:00 AM–1:00 PM | Windows | CCG | Gaming; Gaming; Gaming; Tournament; Tournament; Tournament
+- **MTG Oathbreaker Tournament** — 11:00 AM–2:00 PM | Windows | CCG | Gaming; Tournament
+- **Anime for Adults… Wait, not that way!** — 11:15 AM–12:15 PM | Union Ballroom | Main Events 1
+- **Special Effects and Weathering on Fabrics and Props** — 11:30 AM–12:30 PM | A120-122 | Panels 4
+  - The real world is hard on clothing. The various fantasy worlds can be even harder! Elevate your skills by learning how to distress and weather your fabric and armor properly and safely. Professional costumer Julie Burnsides Diaz will walk you through her favorite tips, tricks, and tools for special effects to make your next cosplay feel realistic and lived-in
+- **The Hunger Games: Anime Edition** — 11:30 AM–1:00 PM | Delaware | Panels 1
+  - Join a group of anime fans as they send characters from your favorite anime into a battle royale - Who will be the victor of the first annual Anime Hunger Games? May the odds be ever in your favor!
+- **Introduction to Naginata: Exclusive Class** — 11:30 AM–12:30 PM | Fairfield | Workshop | Partner Panel; Interactive
+  - 10 raffle winners have the chance to participate in a free introductory naginata class by the Columbus Naginata Club. Winners will be announced Sunday at the Columbus Naginata Booth in the Exhibitor's Hall. Only raffle winners may participate due to limitations on equipment, but observers are welcome!
+- **Danganronpa LIVE! A Mock Class Trial** — 11:45 AM–1:45 PM | A110-113 | Panels 2
+  - Welcome to Danganronpa LIVE! The game show where contestants must work together (or not) to figure out which one of them is a killer. Volunteers from the audience will play the role of Ultimate Students partaking in a class trial. Each person will have their own evidence that will be used to discern the crime and pin the culprit. Audience members are encouraged to play along and will be asked for their own theories.
+- **Epic the musical** — 11:45 AM–1:15 PM | A114-115 | Panels 3
+  - Do you love epic the musical? Yes, then come and sing along to the epic musical songs and sagas!!. No, do you like greek mythology?? Do you like musicals? Then come listen anyway!
+- **Nerdin Out Brittany and Matt** — 11:45 AM–12:45 PM | Regency Ballroom | Main Events 2 | Guest Panel
+  - Do you like nerdy stuff? So do Brittany and Matt. So much so, they funded a dub of their favorite anime series. Come talk to us about games, anime, manga and hang out. Or ask us questions about voice acting. Or bring us cupcakes. They all work.
+- **Haikyu!! short stories: popcorn fanfic challenge** — 12:00 PM–1:30 PM | A123-124 | Panels 5
+  - "This is an interactive storytelling game for fans of the Haikyu!! series where attendees will be randomly assigned to teams to work together and create fun fanfics using surprise prompts written by the attendees. Teams will have 5 minutes to build their fanfic one sentence at a time in ""popcorn"" style before sharing them with everyone else!"
+- **Mystery Tournament** — 12:00 PM–3:30 PM | Franklin | Video Gaming | Gaming; Gaming; Tournament; Tournament
+- **Badge Ribbon Meetup** — 12:00 PM–2:00 PM | Harrison | Photoshoots | Meetup
+- **Armored Blooms: Forge a Flower with Maid to Be** — 12:00 PM–1:30 PM | Marion | Maid to Be | Gaming; Interactive
+  - Calling all aspiring blacksmiths and artificers! Join Maid to Be as we walk you through the steps to create your very own scale mail flower. All materials will be provided, just arrive eager to craft!
+- **Giant Kerplunk** — 12:00 PM–1:00 PM | McKinley | Movement Room | Interactive
+  - Come have fun playing Giant Kerplunk!—an oversized twist on the classic family game everyone loves! KerPlunk is a fast-paced game of suspense and strategy that players of all ages can enjoy. Take turns carefully removing sticks from the tube without making any of the balls fall- The person who collects the least amount of fallen balls, wins! All attendees who participate will receive a movement room ribbon and a Matsuricon button!
+- **An Unwelcome Home (Lancer)** — 12:00 PM–4:00 PM | Morrow | RPG | Gaming; Gaming
+- **King For A Day (Daggerheart)** — 12:00 PM–3:00 PM | Morrow | RPG | Gaming
+- **Matsuri’s Cracker Barrel Has Fallen (Cracker Barrel Has Fallen)** — 12:00 PM–4:00 PM | Morrow | RPG | Gaming; Gaming
+- **Merit Badges of Everglow Forest (Wyrdscouts)** — 12:00 PM–4:00 PM | Morrow | RPG | Gaming; Gaming
+- **Monster of the Week… but it’s the 90’s (Monster of the Week)** — 12:00 PM–4:00 PM | Morrow | RPG | Gaming
+- **Murder at Holmfirth Hall (D&D 5e)** — 12:00 PM–4:00 PM | Morrow | RPG | Gaming; Gaming
+- **The Last Torch? (Daggerheart: Age of Umbra)** — 12:00 PM–4:00 PM | Morrow | RPG | Gaming
+- **Voice Actor Variety Hour** — 12:30 PM–1:30 PM | Union Ballroom | Main Events 1 | Guest Panel
+  - What happens when you throw a bunch of talented voice actors on stage with no script? Come find out! Join us for an hour of improv games, ridiculous challenges, audience interaction, behind-the-scenes stories, and plenty of unexpected laughs. No two Variety Hours are ever the same, so expect the unexpected!
+- **JFashion Hangout** — 12:45 PM–1:45 PM | Fairfield | Workshop
+  - Come hang out with fellow J-Fashion enthusiasts while taking part in 9 free J-Fashion themed activities!
+- **18+ Boop, Marry, Kill** — 1:00 PM–2:30 PM | A120-122 | Panels 4 | 18+
+  - "Are you prepared to defend your questionable choices? Well then this this is the panel for you. In this hilarious interactive panel, we'll put your love of anime (and questionable character crushes) to the test in this classic game of ""Boop, Marry, or Kill"". Choose your picks, defend your decisions, and debate with fellow fans as we explore the best, worst, and most chaotic pairings across anime worlds!"
+- **Free Play** — 1:00 PM–2:00 PM | McKinley | Movement Room | Interactive
+  - Visit the Movement Room during Free Play hours to enjoy access (with badge) to several classical games.. But in giant form! We have Giant Jenga, Giant Connect 4, Giant Yahtzee, Giant Sorry, Giant Uno and more! We are confident that there will be something fun for everyone here in the Movement Room, so stop on by!
+- **From Battlefield to Budo: The Art of Naginata** — 1:00 PM–2:00 PM | Regency Ballroom | Main Events 2 | Event; Partner Panel
+  - Discover your new favorite martial art with the Columbus Naginata Club. Learn how this traditional polearm evolved from battlefield weapon to feminine icon to modern budo, then watch practitioners showcase elegant kata, dynamic sparring (shiai), and the techniques, strategy, and spirit that make naginata a unique martial art. Attendees have the chance to win 1 of 10 coveted spots for a free intro class on Sunday!
+- **The Mind Learn to Play** — 1:00 PM–4:00 PM | Taft C/D | Tabletop Gaming | Gaming; Learn to Play
+  - More than just a game. It's an experiment, a journey, a team experience in which you can't exchange information, yet will become one to defeat all the levels of the game. - 2-4 players
+- **The Mind Learn to Play** — 1:00 PM–4:00 PM | Taft CD | Tabletop Gaming | Gaming; Gaming; Learn to Play; Learn to Play
+- **Beyblade X Tournament** — 1:00 PM–3:00 PM | Windows | CCG | Gaming; Gaming; Gaming; Gaming; Tournament; Tournament; Tournament; Tournament
+- **MTG Modern Tournament** — 1:00 PM–2:00 PM | Windows | CCG | Gaming; Tournament
+- **Pokemon Standard Tournament** — 1:00 PM–2:00 PM | Windows | CCG | Gaming; Gaming; Gaming; Gaming; Tournament; Tournament; Tournament; Tournament
+- **The World of Kpop Demon Hunters** — 1:15 PM–2:15 PM | Delaware | Panels 1
+  - Do you love this movie as much as I do? Come learn more about it! How Korean culture influenced the movie, details you might have missed, and fun facts from behind the scenes!
+- **Hellfire club dnd live** — 1:30 PM–2:30 PM | A114-115 | Panels 3
+  - Welcome to Hellfire club!!! Are you ready to face down the monster of Greyhawk and all the Creatures from within it? Let's find out if you have what it takes to be a part of the Party as you play through a campaign run by the infamous Dungeon Master himself, Eddie Munson. A chilling story with a mix of DND, Larping, and Stranger things awaits!!!
+- **This Was Not in the Budget: Smart Con Spending** — 1:45 PM–2:45 PM | A123-124 | Panels 5
+  - Conventions can be an exciting experience, but expenses can add up quickly, from badges and hotels to merch and food. Before you know it, you've spent $50 before noon and blown your budget. In this panel, we’ll be breaking down how to plan ahead, prioritize what matters, and make the most of your con without financial regret, with practical, realistic tips to help you better prepare for your next con experience.
+- **ゴゴゴゴ (The JoJo Panel)** — 1:45 PM–2:45 PM | Union Ballroom | Main Events 1 | Guest Panel
+  - Whether you're a lifelong Stand user or just beginning your bizarre adventure, this is one panel you won't want to skip! Join Amber Lee Connors, Daman Mills, Kira Buckland, Casey Mongillo, Cedric Williams, and Melissa Fahn for an unforgettable celebration of JoJo's Bizarre Adventure. Hear behind-the-scenes stories from the recording booth, discover what it takes to bring JoJo's unforgettable characters to life, and enjoy plenty of laughs, fan questions, and delightfully bizarre moments along the way.
+- **One Piece According to 4Kids** — 2:00 PM–4:00 PM | A110-113 | Panels 2
+  - Check out One Piece's journey to America! What did the show look and sound like when it first made landfall in the USA, and why did Sanji have a lollipop? Come aboard and find out!
+- **Armor Academy: Chainmail Jewelry** — 2:00 PM–3:00 PM | Fairfield | Workshop
+  - In this workshop, we will teach the basics of making chainmail, and leave you with a small bracelet or necklace forged by your own hands. There will be a 25 dollar materials fee (cash or card) to participate, but any may observe for free.
+- **All Fandoms + OCs Photoshoot** — 2:00 PM–3:00 PM | Harrison | Photoshoots | Meetup; Interactive
+  - Come in your best look and snap some pics with fellow fans!
+- **Armored Blooms: Forge a Flower with Maid to Be** — 2:00 PM–3:30 PM | Marion | Maid to Be | Gaming; Interactive
+  - Calling all aspiring blacksmiths and artificers! Join Maid to Be as we walk you through the steps to create your very own scale mail flower. All materials will be provided, just arrive eager to craft!
+- **Cosplay Cornhole** — 2:00 PM–3:00 PM | McKinley | Movement Room | Interactive
+  - Come play the super popular Ohio lawn game- in Cosplay! Take turns throwing bean bags, try landing on the board or making in the hole to score points! Team up or play 1v1 in Cosplay Cornhole! Cosplay is not required, but encouraged! All attendees who participate will receive a movement room ribbon and a Matsuricon button!
+- **Cosplay Confessional** — 2:30 PM–3:30 PM | Delaware | Panels 1
+  - Have you ever hot glued a hem? Ignored the safety instructions on that bottle of glue? Walked through a convention with your cosplay held together with safety pins and a dream? Come to the Cosplay Confessional to unburden yourself of your guilt and do penance for your crimes.
+- **VelvetVix Idol Competition** — 2:30 PM–4:00 PM | Regency Ballroom | Main Events 2
+  - This panel is a competition for both cosplay and kaigai idols. J-pop/K-pop/C-pop it’s all accepted so if you wanted to compete a song that isn’t allowed at a normal comp it’s welcome here!
+- **Keeping Up With Star Rail: Game Show Edition** — 2:45 PM–3:45 PM | A114-115 | Panels 3
+  - On this episode of Keeping Up With Star Rail, we're taking the questions to YOU, lovely audience. Whether your expertise lies in the game's characters, lore, music, or even the dreaded, awful relic grind, we invite everyone in the cosmos to come test your Honkai: Star Rail knowledge on our game show! We’ll have prizes for competitors and ribbons for audience members, so please swing on by and enjoy today’s special program!
+- **Lupin The Third The Panel** — 2:45 PM–3:45 PM | A120-122 | Panels 4
+  - An introduction to the long-running Lupin III series. We'll introduce the five main characters, the six or seven TV shows, the TV specials and movies that are worthwhile (there's a few stinkers in there, not gonna lie!), and some odds and ends like the live-action entries and the manga, in print in America for the first time in over ten years.
+- **Warrior cats and the wackiness of Arc 1** — 3:00 PM–4:00 PM | A123-124 | Panels 5
+  - "Have you ever heard of ""warrior cats"" and briefly chuckled at the idea of cats in a forest but never thought to actually look into it? Well come on down as we look into the insanity that is the first six books of the series. Organized religion, chaotic family trees, deaths that feel weird to expose children to, we have it all!"
+- **Armor Academy: Scale Mail Gauntlet** — 3:00 PM–4:00 PM | Fairfield | Workshop
+  - Want to learn how to make scale mail? In this class, we’ll teach you the basics, and guide you through making a small gauntlet. There will be a 25 dollar materials fee (cash or card) to participate, but any may observe for free.
+- **Free Play** — 3:00 PM–4:00 PM | McKinley | Movement Room | Interactive
+  - Visit the Movement Room during Free Play hours to enjoy access (with badge) to several classical games.. But in giant form! We have Giant Jenga, Giant Connect 4, Giant Yahtzee, Giant Sorry, Giant Uno and more! We are confident that there will be something fun for everyone here in the Movement Room, so stop on by!
+- **Charity Auction** — 3:00 PM–4:00 PM | Union Ballroom | Main Events 1 | Event; Interactive
+  - Every year we have an auction to collect money for our donation to Ohio State University’s The James Comprehensive Cancer Center. We collect some of the coolest swag we can find and get names from the industry to sign them and make them even cooler, then we auction them off to you! TO DATE WE HAVE RAISED OVER $128,000!
+- **Closing Ceremonies** — 4:00 PM–4:45 PM | Union Ballroom | Main Events 1 | Event
+  - See how we did this year and maybe a sneak peak of what's coming next year!

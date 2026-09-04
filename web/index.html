@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#6d28d9" />
+  <title>Matsuricon 2026 Schedule</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__top">
+      <div>
+        <p class="eyebrow">Sept 3–6, 2026 • Columbus, OH</p>
+        <h1>Matsuricon 2026</h1>
+        <p class="subtitle">Mobile schedule, bookmarks, and your local dashboard.</p>
+      </div>
+      <button id="installHint" class="icon-btn" title="Offline ready">☰</button>
+    </div>
+
+    <label class="search">
+      <span>🔎</span>
+      <input id="searchInput" type="search" placeholder="Search panels, guests, rooms…" autocomplete="off" />
+    </label>
+  </header>
+
+  <nav class="tabs" aria-label="Main sections">
+    <button class="tab active" data-view="schedule">Schedule</button>
+    <button class="tab" data-view="bookmarks">Bookmarks <span id="bookmarkBadge">0</span></button>
+    <button class="tab" data-view="dashboard">Dashboard</button>
+  </nav>
+
+  <main>
+    <section id="scheduleView" class="view active">
+      <div class="day-chips" id="dayChips"></div>
+
+      <details class="filter-panel" open>
+        <summary>Filters</summary>
+        <div class="filter-grid">
+          <label>Location
+            <select id="locationFilter"><option value="">All locations</option></select>
+          </label>
+          <label>Track
+            <select id="trackFilter"><option value="">All tracks</option></select>
+          </label>
+          <label>Type / Tag
+            <select id="typeFilter"><option value="">All types</option></select>
+          </label>
+          <label class="toggle-line">
+            <input id="bookmarkedOnly" type="checkbox" /> Bookmarked only
+          </label>
+        </div>
+        <div class="filter-actions">
+          <button id="clearFilters" class="secondary-btn">Clear filters</button>
+          <span id="resultCount" class="muted"></span>
+        </div>
+      </details>
+
+      <div id="scheduleList" class="cards"></div>
+    </section>
+
+    <section id="bookmarksView" class="view">
+      <div class="section-head">
+        <h2>Your bookmarks</h2>
+        <button id="clearBookmarks" class="danger-btn">Clear all</button>
+      </div>
+      <div id="bookmarkList" class="cards"></div>
+    </section>
+
+    <section id="dashboardView" class="view">
+      <div class="dashboard-grid">
+        <article class="stat"><span id="statBookmarks">0</span><small>Bookmarked sessions</small></article>
+        <article class="stat"><span id="statDays">0</span><small>Days planned</small></article>
+        <article class="stat"><span id="statHours">0</span><small>Scheduled hours</small></article>
+      </div>
+
+      <article class="panel">
+        <h2>Personal agenda</h2>
+        <div id="agendaList" class="agenda"></div>
+      </article>
+
+      <article class="panel">
+        <h2>Bookmark data</h2>
+        <p class="muted">Saved only in this browser with local storage. No account or server sync.</p>
+        <div class="data-actions">
+          <button id="exportBookmarks" class="secondary-btn">Export JSON</button>
+          <label class="secondary-btn file-btn">Import JSON<input id="importBookmarks" type="file" accept="application/json" /></label>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <dialog id="sessionDialog">
+    <button id="closeDialog" class="dialog-close">×</button>
+    <div id="dialogContent"></div>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>
