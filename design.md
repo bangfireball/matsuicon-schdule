@@ -288,6 +288,7 @@ Website features:
 - User dashboard showing saved session count, planned days, scheduled hours, and personal agenda.
 - Bookmark export/import as JSON.
 - Session detail modal with Eventeny source link.
+- Android APK download link in the website header.
 - Docker/Nginx deployment setup.
 - Uses backend `/api/schedule` when available and falls back to bundled static JSON.
 

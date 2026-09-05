@@ -11,6 +11,7 @@ Static, mobile-first website version of the Matsuricon 2026 schedule.
 - User dashboard with bookmark count, days planned, scheduled hours, and personal agenda
 - Bookmark export/import JSON
 - Docker/Nginx deployment
+- Android APK download link
 - Backend API integration with static JSON fallback
 - Visit logging through `/api/visit` when run with Docker Compose
 
