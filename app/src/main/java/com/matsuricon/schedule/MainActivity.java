@@ -57,7 +57,7 @@ public class MainActivity extends Activity {
         headerTop.setGravity(Gravity.CENTER_VERTICAL);
         TextView title = text("Matsuricon 2026", 23, Color.WHITE, true);
         headerTop.addView(title, new LinearLayout.LayoutParams(0, -2, 1));
-        menuButton = text("☰", 24, Color.WHITE, true);
+        menuButton = text("≡", 30, Color.WHITE, true);
         menuButton.setGravity(Gravity.CENTER);
         menuButton.setBackground(round(0x22FFFFFF, dp(12), 0, 0));
         menuButton.setOnClickListener(v -> showMenu());
@@ -257,11 +257,25 @@ public class MainActivity extends Activity {
         if (!meta.isEmpty()) card.addView(text(meta, 13, Color.rgb(75, 85, 99), false));
         if (!s.description.isEmpty()) { TextView desc = text(s.description, 13, Color.rgb(55, 65, 81), false); desc.setPadding(0, dp(8), 0, 0); desc.setMaxLines(4); card.addView(desc); }
         LinearLayout actions = new LinearLayout(this);
-        Button save = new Button(this); save.setText(bookmarks.contains(s.id) ? "Saved" : "Save"); save.setOnClickListener(v -> { if (bookmarks.contains(s.id)) bookmarks.remove(s.id); else bookmarks.add(s.id); saveBookmarks(); render(); });
-        Button details = new Button(this); details.setText("Details"); details.setOnClickListener(v -> showDetails(s));
-        actions.addView(save, new LinearLayout.LayoutParams(0, -2, 1)); actions.addView(details, new LinearLayout.LayoutParams(0, -2, 1));
+        actions.setPadding(0, dp(10), 0, 0);
+        TextView save = actionButton(bookmarks.contains(s.id) ? "Saved" : "Save", bookmarks.contains(s.id));
+        save.setOnClickListener(v -> { if (bookmarks.contains(s.id)) bookmarks.remove(s.id); else bookmarks.add(s.id); saveBookmarks(); render(); });
+        TextView details = actionButton("Details", false);
+        details.setOnClickListener(v -> showDetails(s));
+        LinearLayout.LayoutParams saveLp = new LinearLayout.LayoutParams(0, dp(44), 1);
+        saveLp.setMargins(0, 0, dp(6), 0);
+        LinearLayout.LayoutParams detailsLp = new LinearLayout.LayoutParams(0, dp(44), 1);
+        detailsLp.setMargins(dp(6), 0, 0, 0);
+        actions.addView(save, saveLp); actions.addView(details, detailsLp);
         card.addView(actions);
         return card;
+    }
+
+    private TextView actionButton(String label, boolean primary) {
+        TextView tv = text(label, 14, primary ? Color.WHITE : Color.rgb(76, 29, 149), true);
+        tv.setGravity(Gravity.CENTER);
+        tv.setBackground(round(primary ? Color.rgb(219, 39, 119) : Color.rgb(239, 231, 255), dp(13), primary ? 0 : Color.rgb(221, 214, 254), primary ? 0 : dp(1)));
+        return tv;
     }
 
     private ArrayList<Session> filteredSessions() {

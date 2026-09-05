@@ -316,8 +316,9 @@ Android app parity updates:
 
 - Bookmarks saved with Android `SharedPreferences`.
 - Bookmarks and Dashboard moved into a hamburger menu to match the website.
-- Thin Matsuricon header.
+- Thin Matsuricon header with no subtitle text.
 - Search bar hides after scrolling down.
+- Styled Save and Details buttons.
 - Filters for location, track, type/tag, and bookmarked-only.
 - Filter panel is closed by default.
 - Session details dialog.
