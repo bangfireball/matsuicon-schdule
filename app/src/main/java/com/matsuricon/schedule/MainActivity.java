@@ -22,8 +22,11 @@ public class MainActivity extends Activity {
     private final String[] days = {"All", "Thu", "Fri", "Sat", "Sun"};
     private String selectedView = "Schedule", selectedDay = "All", query = "", locationFilter = "", trackFilter = "", typeFilter = "";
     private boolean bookmarkedOnly = false, filtersOpen = false;
-    private LinearLayout root, list, tabRow, dayRow, filterBody;
-    private TextView countText, filterToggle;
+    private LinearLayout root, list, dayRow, filterBody;
+    private TextView countText, filterToggle, menuButton;
+    private EditText searchField;
+    private ScrollView scrollView;
+    private boolean searchHidden = false;
     private SharedPreferences prefs;
 
     static class Session {
@@ -47,71 +50,71 @@ public class MainActivity extends Activity {
 
         LinearLayout header = new LinearLayout(this);
         header.setOrientation(LinearLayout.VERTICAL);
-        header.setPadding(dp(20), dp(18), dp(20), dp(16));
+        header.setPadding(dp(14), dp(10), dp(14), dp(10));
         header.setBackground(new GradientDrawable(GradientDrawable.Orientation.LEFT_RIGHT, new int[]{Color.rgb(91, 33, 182), Color.rgb(219, 39, 119)}));
 
-        TextView title = text("Matsuricon 2026", 28, Color.WHITE, true);
-        header.addView(title);
-        TextView subtitle = text("Mobile schedule • bookmarks • local dashboard", 14, 0xEFFFFFFF, false);
-        subtitle.setPadding(0, dp(4), 0, dp(12));
-        header.addView(subtitle);
+        LinearLayout headerTop = new LinearLayout(this);
+        headerTop.setGravity(Gravity.CENTER_VERTICAL);
+        TextView title = text("Matsuricon 2026", 23, Color.WHITE, true);
+        headerTop.addView(title, new LinearLayout.LayoutParams(0, -2, 1));
+        menuButton = text("☰", 24, Color.WHITE, true);
+        menuButton.setGravity(Gravity.CENTER);
+        menuButton.setBackground(round(0x22FFFFFF, dp(12), 0, 0));
+        menuButton.setOnClickListener(v -> showMenu());
+        headerTop.addView(menuButton, new LinearLayout.LayoutParams(dp(42), dp(40)));
+        header.addView(headerTop);
 
-        EditText search = new EditText(this);
-        search.setSingleLine(true);
-        search.setHint("Search panels, guests, rooms…");
-        search.setTextSize(15);
-        search.setPadding(dp(14), 0, dp(14), 0);
-        search.setMinHeight(dp(48));
-        search.setBackground(round(Color.WHITE, dp(14), 0, 0));
-        search.addTextChangedListener(new TextWatcher() {
+        searchField = new EditText(this);
+        searchField.setSingleLine(true);
+        searchField.setHint("Search schedule…");
+        searchField.setTextSize(15);
+        searchField.setPadding(dp(14), 0, dp(14), 0);
+        searchField.setMinHeight(dp(46));
+        searchField.setBackground(round(Color.WHITE, dp(14), 0, 0));
+        searchField.addTextChangedListener(new TextWatcher() {
             public void beforeTextChanged(CharSequence s, int st, int c, int a) {}
             public void onTextChanged(CharSequence s, int st, int before, int c) { query = s.toString().toLowerCase(Locale.US).trim(); render(); }
             public void afterTextChanged(Editable e) {}
         });
-        header.addView(search, new LinearLayout.LayoutParams(-1, dp(50)));
+        LinearLayout.LayoutParams searchLp = new LinearLayout.LayoutParams(-1, dp(48));
+        searchLp.setMargins(0, dp(10), 0, 0);
+        header.addView(searchField, searchLp);
         root.addView(header);
 
-        tabRow = new LinearLayout(this);
-        tabRow.setPadding(dp(10), dp(10), dp(10), dp(6));
-        tabRow.setGravity(Gravity.CENTER);
-        for (String tab : new String[]{"Schedule", "Bookmarks", "Dashboard"}) addTab(tab);
-        root.addView(tabRow);
-
-        ScrollView scroll = new ScrollView(this);
+        scrollView = new ScrollView(this);
         list = new LinearLayout(this);
         list.setOrientation(LinearLayout.VERTICAL);
         list.setPadding(dp(14), 0, dp(14), dp(20));
-        scroll.addView(list);
-        root.addView(scroll, new LinearLayout.LayoutParams(-1, 0, 1));
+        scrollView.addView(list);
+        scrollView.getViewTreeObserver().addOnScrollChangedListener(() -> {
+            boolean hide = scrollView.getScrollY() > dp(70);
+            if (hide != searchHidden) {
+                searchHidden = hide;
+                searchField.setVisibility(hide ? View.GONE : View.VISIBLE);
+            }
+        });
+        root.addView(scrollView, new LinearLayout.LayoutParams(-1, 0, 1));
         setContentView(root);
     }
 
-    private void addTab(String name) {
-        TextView tab = text(name, 14, Color.rgb(91, 33, 182), true);
-        tab.setGravity(Gravity.CENTER);
-        tab.setPadding(dp(10), dp(10), dp(10), dp(10));
-        tab.setOnClickListener(v -> { selectedView = name; render(); });
-        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(0, -2, 1);
-        lp.setMargins(dp(3), 0, dp(3), 0);
-        tabRow.addView(tab, lp);
+    private void showMenu() {
+        final String[] items = {"Schedule", "Bookmarks (" + bookmarks.size() + ")", "Dashboard", "Download APK / Website"};
+        new AlertDialog.Builder(this)
+                .setItems(items, (d, which) -> {
+                    if (which == 0) selectedView = "Schedule";
+                    else if (which == 1) selectedView = "Bookmarks";
+                    else if (which == 2) selectedView = "Dashboard";
+                    else startActivity(new Intent(Intent.ACTION_VIEW, android.net.Uri.parse("https://matsuricon.carwick.org/")));
+                    render();
+                })
+                .show();
     }
 
     private void render() {
-        styleTabs();
         list.removeAllViews();
         if (selectedView.equals("Schedule")) renderSchedule();
         else if (selectedView.equals("Bookmarks")) renderBookmarks();
         else renderDashboard();
-    }
-
-    private void styleTabs() {
-        for (int i = 0; i < tabRow.getChildCount(); i++) {
-            TextView tv = (TextView) tabRow.getChildAt(i);
-            boolean on = tv.getText().toString().startsWith(selectedView);
-            if (tv.getText().toString().startsWith("Bookmarks")) tv.setText("Bookmarks " + bookmarks.size());
-            tv.setTextColor(on ? Color.WHITE : Color.rgb(91, 33, 182));
-            tv.setBackground(round(on ? Color.rgb(91, 33, 182) : Color.WHITE, dp(22), Color.rgb(221, 214, 254), dp(1)));
-        }
     }
 
     private void renderSchedule() {
