@@ -31,6 +31,7 @@ let sessions = [];
 let bookmarks = new Set(JSON.parse(localStorage.getItem(STORE_KEY) || '[]'));
 let filters = { day: '', search: '', location: '', track: '', type: '', bookmarkedOnly: false };
 
+bindEvents();
 init();
 
 async function init() {
@@ -46,7 +47,6 @@ async function init() {
   logVisit();
   sessions = data.sessions.map(normalizeSession).sort((a, b) => a.startDate - b.startDate || a.title.localeCompare(b.title));
   buildFilterOptions();
-  bindEvents();
   updateHeroOffset();
   renderAll();
 }
@@ -83,11 +83,20 @@ function bindEvents() {
   els.importBookmarks.addEventListener('change', importBookmarks);
   els.closeDialog.addEventListener('click', () => els.dialog.close());
   window.addEventListener('resize', updateHeroOffset);
+  window.addEventListener('scroll', handleHeaderScroll, { passive: true });
 }
 
 function updateHeroOffset() {
   const heroHeight = document.querySelector('.hero').offsetHeight;
   document.documentElement.style.setProperty('--hero-offset', `${heroHeight}px`);
+}
+
+function handleHeaderScroll() {
+  document.body.classList.toggle('scrolled', window.scrollY > 70);
+  if (window.scrollY > 70) {
+    els.menu.classList.remove('open');
+    els.menuButton.setAttribute('aria-expanded', 'false');
+  }
 }
 
 function buildFilterOptions() {

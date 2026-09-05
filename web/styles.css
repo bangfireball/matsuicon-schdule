@@ -18,8 +18,9 @@ button, input, select { font: inherit; }
 .eyebrow { margin: 0 0 3px; font-size: .68rem; opacity: .85; text-transform: uppercase; letter-spacing: .05em; }
 h1 { margin: 0; font-size: clamp(1.35rem, 6vw, 2rem); line-height: 1; }
 .icon-btn { border: 0; color: white; background: rgba(255,255,255,.16); border-radius: 12px; min-width: 40px; height: 40px; font-size: 1.25rem; }
-.search { display: flex; align-items: center; gap: 8px; max-width: 980px; margin: 10px auto 0; padding: 10px 12px; border-radius: 15px; background: white; color: var(--muted); }
+.search { display: flex; align-items: center; gap: 8px; max-width: 980px; margin: 10px auto 0; padding: 10px 12px; border-radius: 15px; background: white; color: var(--muted); transition: max-height .22s ease, opacity .18s ease, margin .22s ease, padding .22s ease; overflow: hidden; }
 .search input { width: 100%; border: 0; outline: 0; color: var(--text); }
+.scrolled .search { max-height: 0; opacity: 0; margin-top: 0; padding-top: 0; padding-bottom: 0; pointer-events: none; }
 .menu { display: none; max-width: 980px; margin: 10px auto 0; padding: 8px; border-radius: 16px; background: rgba(255,255,255,.96); box-shadow: 0 12px 30px rgba(32,22,47,.18); }
 .menu.open { display: grid; gap: 6px; }
 .menu-item { width: 100%; display: flex; align-items: center; justify-content: space-between; border: 0; border-radius: 12px; padding: 12px; background: transparent; color: var(--purple-dark); text-decoration: none; font-weight: 900; text-align: left; }
