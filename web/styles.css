@@ -13,19 +13,18 @@
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--text); }
 button, input, select { font: inherit; }
-.hero { position: sticky; top: 0; z-index: 10; padding: max(16px, env(safe-area-inset-top)) 16px 14px; color: white; background: linear-gradient(135deg, var(--purple-dark), var(--purple), var(--pink)); box-shadow: 0 12px 30px rgba(76, 29, 149, .25); }
-.hero__top { display: flex; gap: 12px; align-items: flex-start; justify-content: space-between; max-width: 980px; margin: 0 auto; }
-.eyebrow { margin: 0 0 5px; font-size: .78rem; opacity: .85; text-transform: uppercase; letter-spacing: .05em; }
-h1 { margin: 0; font-size: clamp(1.7rem, 8vw, 2.7rem); line-height: 1; }
-.subtitle { margin: 8px 0 0; opacity: .9; font-size: .95rem; }
-.apk-link { display: inline-flex; margin-top: 12px; padding: 9px 12px; border-radius: 999px; background: rgba(255,255,255,.18); color: white; text-decoration: none; font-weight: 900; border: 1px solid rgba(255,255,255,.35); }
-.icon-btn { border: 0; color: white; background: rgba(255,255,255,.16); border-radius: 14px; min-width: 42px; height: 42px; }
-.search { display: flex; align-items: center; gap: 8px; max-width: 980px; margin: 16px auto 0; padding: 12px 14px; border-radius: 18px; background: white; color: var(--muted); }
+.hero { position: sticky; top: 0; z-index: 10; padding: max(10px, env(safe-area-inset-top)) 12px 10px; color: white; background: linear-gradient(135deg, var(--purple-dark), var(--purple), var(--pink)); box-shadow: 0 8px 22px rgba(76, 29, 149, .2); }
+.hero__top { display: flex; gap: 12px; align-items: center; justify-content: space-between; max-width: 980px; margin: 0 auto; }
+.eyebrow { margin: 0 0 3px; font-size: .68rem; opacity: .85; text-transform: uppercase; letter-spacing: .05em; }
+h1 { margin: 0; font-size: clamp(1.35rem, 6vw, 2rem); line-height: 1; }
+.icon-btn { border: 0; color: white; background: rgba(255,255,255,.16); border-radius: 12px; min-width: 40px; height: 40px; font-size: 1.25rem; }
+.search { display: flex; align-items: center; gap: 8px; max-width: 980px; margin: 10px auto 0; padding: 10px 12px; border-radius: 15px; background: white; color: var(--muted); }
 .search input { width: 100%; border: 0; outline: 0; color: var(--text); }
-.tabs { position: sticky; top: var(--hero-offset, 142px); z-index: 9; display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; padding: 10px 12px; background: rgba(248,245,255,.92); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
-.tab { border: 1px solid var(--line); background: white; color: var(--purple); border-radius: 999px; padding: 10px 8px; font-weight: 700; }
-.tab.active { background: var(--purple); color: white; }
-.tab span { display: inline-flex; min-width: 20px; justify-content: center; margin-left: 3px; padding: 1px 5px; border-radius: 999px; background: rgba(255,255,255,.25); }
+.menu { display: none; max-width: 980px; margin: 10px auto 0; padding: 8px; border-radius: 16px; background: rgba(255,255,255,.96); box-shadow: 0 12px 30px rgba(32,22,47,.18); }
+.menu.open { display: grid; gap: 6px; }
+.menu-item { width: 100%; display: flex; align-items: center; justify-content: space-between; border: 0; border-radius: 12px; padding: 12px; background: transparent; color: var(--purple-dark); text-decoration: none; font-weight: 900; text-align: left; }
+.menu-item.active { background: #efe7ff; color: var(--purple); }
+.menu-item span { display: inline-flex; min-width: 22px; justify-content: center; margin-left: 6px; padding: 1px 6px; border-radius: 999px; background: #ddd6fe; }
 main { max-width: 980px; margin: 0 auto; padding: 12px 12px 80px; }
 .view { display: none; }
 .view.active { display: block; }
@@ -76,5 +75,5 @@ dialog::backdrop { background: rgba(32,22,47,.5); backdrop-filter: blur(3px); }
   .filter-grid { grid-template-columns: repeat(4, 1fr); align-items: end; }
   .cards { grid-template-columns: repeat(2, 1fr); }
   .date-heading { grid-column: 1 / -1; }
-  .tabs { max-width: 980px; margin: 0 auto; border: 1px solid var(--line); border-top: 0; border-radius: 0 0 20px 20px; }
+  .menu.open { grid-template-columns: repeat(4, 1fr); }
 }

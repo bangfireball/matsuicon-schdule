@@ -1,6 +1,8 @@
 const els = {
   search: document.querySelector('#searchInput'),
-  tabs: document.querySelectorAll('.tab'),
+  menuButton: document.querySelector('#menuButton'),
+  menu: document.querySelector('#mainMenu'),
+  tabs: document.querySelectorAll('.menu-item[data-view]'),
   views: document.querySelectorAll('.view'),
   dayChips: document.querySelector('#dayChips'),
   location: document.querySelector('#locationFilter'),
@@ -65,6 +67,10 @@ function splitList(value) {
 }
 
 function bindEvents() {
+  els.menuButton.addEventListener('click', () => {
+    const open = els.menu.classList.toggle('open');
+    els.menuButton.setAttribute('aria-expanded', String(open));
+  });
   els.tabs.forEach(tab => tab.addEventListener('click', () => switchView(tab.dataset.view)));
   els.search.addEventListener('input', () => { filters.search = els.search.value.trim().toLowerCase(); renderSchedule(); });
   [els.location, els.track, els.type].forEach(select => select.addEventListener('change', () => {
@@ -215,6 +221,8 @@ function openDetails(id) {
 function switchView(view) {
   els.tabs.forEach(t => t.classList.toggle('active', t.dataset.view === view));
   els.views.forEach(v => v.classList.toggle('active', v.id === `${view}View`));
+  els.menu.classList.remove('open');
+  els.menuButton.setAttribute('aria-expanded', 'false');
   if (view === 'dashboard') renderDashboard();
   if (view === 'bookmarks') renderBookmarks();
 }

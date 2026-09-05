@@ -13,23 +13,22 @@
       <div>
         <p class="eyebrow">Sept 3–6, 2026 • Columbus, OH</p>
         <h1>Matsuricon 2026</h1>
-        <p class="subtitle">Mobile schedule, bookmarks, and your local dashboard.</p>
-        <a class="apk-link" href="assets/matsuricon-2026-debug.apk" download>Download Android APK</a>
       </div>
-      <button id="installHint" class="icon-btn" title="Offline ready">☰</button>
+      <button id="menuButton" class="icon-btn" aria-expanded="false" aria-controls="mainMenu" title="Menu">☰</button>
     </div>
 
     <label class="search">
       <span>🔎</span>
-      <input id="searchInput" type="search" placeholder="Search panels, guests, rooms…" autocomplete="off" />
+      <input id="searchInput" type="search" placeholder="Search schedule…" autocomplete="off" />
     </label>
-  </header>
 
-  <nav class="tabs" aria-label="Main sections">
-    <button class="tab active" data-view="schedule">Schedule</button>
-    <button class="tab" data-view="bookmarks">Bookmarks <span id="bookmarkBadge">0</span></button>
-    <button class="tab" data-view="dashboard">Dashboard</button>
-  </nav>
+    <nav id="mainMenu" class="menu" aria-label="Main menu">
+      <button class="menu-item active" data-view="schedule">Schedule</button>
+      <button class="menu-item" data-view="bookmarks">Bookmarks <span id="bookmarkBadge">0</span></button>
+      <button class="menu-item" data-view="dashboard">Dashboard</button>
+      <a class="menu-item" href="assets/matsuricon-2026-debug.apk" download>Download Android APK</a>
+    </nav>
+  </header>
 
   <main>
     <section id="scheduleView" class="view active">
