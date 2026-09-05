@@ -283,12 +283,42 @@ Website features:
 
 - Phone-focused responsive schedule UI.
 - Live search.
-- Filters for day, location, track, type/tag, and bookmarked-only.
-- Bookmarks stored in browser `localStorage`; no accounts or backend required.
+- Filters for day, location, track, type/tag, and bookmarked-only; filter panel is closed by default.
+- Bookmarks stored in browser `localStorage`; no accounts required.
 - User dashboard showing saved session count, planned days, scheduled hours, and personal agenda.
 - Bookmark export/import as JSON.
 - Session detail modal with Eventeny source link.
 - Docker/Nginx deployment setup.
+- Uses backend `/api/schedule` when available and falls back to bundled static JSON.
+
+Backend/API:
+
+```text
+backend/server.js
+backend/Dockerfile
+backend/README.md
+data/schedule.json
+```
+
+Backend endpoints:
+
+- `GET /api/health`
+- `GET /api/schedule`
+- `GET /api/sessions`
+- `GET /api/stats`
+- `POST /api/visit`
+- `POST /api/admin/reload`
+
+The backend writes JSON-line request/visit logs to `/logs/access.jsonl` in Docker.
+
+Android app parity updates:
+
+- Bookmarks saved with Android `SharedPreferences`.
+- Bookmarks tab.
+- Dashboard tab.
+- Filters for location, track, type/tag, and bookmarked-only.
+- Filter panel is closed by default.
+- Session details dialog.
 
 Important website files:
 

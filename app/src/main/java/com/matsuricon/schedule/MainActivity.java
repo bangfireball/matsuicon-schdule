@@ -1,77 +1,68 @@
 package com.matsuricon.schedule;
 
-import android.app.Activity;
+import android.app.*;
+import android.content.*;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
-import android.text.Editable;
-import android.text.TextWatcher;
-import android.view.Gravity;
-import android.view.View;
+import android.text.*;
+import android.view.*;
 import android.widget.*;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.nio.charset.StandardCharsets;
+import java.text.*;
 import java.util.*;
 
 public class MainActivity extends Activity {
     private final ArrayList<Session> allSessions = new ArrayList<>();
-    private final String[] days = {"All", "Thu", "Fri", "Sat", "Sun"};
-    private String selectedDay = "All";
-    private String query = "";
-    private LinearLayout list;
-    private TextView countText;
-    private HorizontalScrollView dayScroller;
     private final ArrayList<TextView> dayButtons = new ArrayList<>();
+    private final Set<String> bookmarks = new HashSet<>();
+    private final String[] days = {"All", "Thu", "Fri", "Sat", "Sun"};
+    private String selectedView = "Schedule", selectedDay = "All", query = "", locationFilter = "", trackFilter = "", typeFilter = "";
+    private boolean bookmarkedOnly = false, filtersOpen = false;
+    private LinearLayout root, list, tabRow, dayRow, filterBody;
+    private TextView countText, filterToggle;
+    private SharedPreferences prefs;
 
     static class Session {
-        String title, date, day, start, end, location, track, types, guests, description, status;
+        String id, title, date, day, start, end, startIso, endIso, location, track, types, guests, description, detailUrl;
     }
 
     @Override public void onCreate(Bundle b) {
         super.onCreate(b);
         getWindow().setStatusBarColor(Color.rgb(91, 33, 182));
+        prefs = getSharedPreferences("matsuricon2026", MODE_PRIVATE);
+        bookmarks.addAll(prefs.getStringSet("bookmarks", new HashSet<>()));
         loadSchedule();
         buildUi();
         render();
     }
 
     private void buildUi() {
-        LinearLayout root = new LinearLayout(this);
+        root = new LinearLayout(this);
         root.setOrientation(LinearLayout.VERTICAL);
         root.setBackgroundColor(Color.rgb(248, 247, 252));
 
         LinearLayout header = new LinearLayout(this);
         header.setOrientation(LinearLayout.VERTICAL);
         header.setPadding(dp(20), dp(18), dp(20), dp(16));
-        GradientDrawable headerBg = new GradientDrawable(GradientDrawable.Orientation.LEFT_RIGHT,
-                new int[]{Color.rgb(91, 33, 182), Color.rgb(219, 39, 119)});
-        header.setBackground(headerBg);
+        header.setBackground(new GradientDrawable(GradientDrawable.Orientation.LEFT_RIGHT, new int[]{Color.rgb(91, 33, 182), Color.rgb(219, 39, 119)}));
 
-        TextView title = new TextView(this);
-        title.setText("Matsuricon 2026");
-        title.setTextColor(Color.WHITE);
-        title.setTextSize(28);
-        title.setTypeface(Typeface.DEFAULT_BOLD);
+        TextView title = text("Matsuricon 2026", 28, Color.WHITE, true);
         header.addView(title);
-
-        TextView subtitle = new TextView(this);
-        subtitle.setText("Interactive convention schedule • Sept 3–6");
-        subtitle.setTextColor(0xEFFFFFFF);
-        subtitle.setTextSize(14);
+        TextView subtitle = text("Mobile schedule • bookmarks • local dashboard", 14, 0xEFFFFFFF, false);
         subtitle.setPadding(0, dp(4), 0, dp(12));
         header.addView(subtitle);
 
         EditText search = new EditText(this);
         search.setSingleLine(true);
-        search.setHint("Search sessions, rooms, tracks, guests…");
+        search.setHint("Search panels, guests, rooms…");
         search.setTextSize(15);
         search.setPadding(dp(14), 0, dp(14), 0);
         search.setMinHeight(dp(48));
-        GradientDrawable searchBg = round(Color.WHITE, dp(14), 0, 0);
-        search.setBackground(searchBg);
+        search.setBackground(round(Color.WHITE, dp(14), 0, 0));
         search.addTextChangedListener(new TextWatcher() {
             public void beforeTextChanged(CharSequence s, int st, int c, int a) {}
             public void onTextChanged(CharSequence s, int st, int before, int c) { query = s.toString().toLowerCase(Locale.US).trim(); render(); }
@@ -80,32 +71,11 @@ public class MainActivity extends Activity {
         header.addView(search, new LinearLayout.LayoutParams(-1, dp(50)));
         root.addView(header);
 
-        dayScroller = new HorizontalScrollView(this);
-        dayScroller.setHorizontalScrollBarEnabled(false);
-        LinearLayout dayRow = new LinearLayout(this);
-        dayRow.setPadding(dp(12), dp(12), dp(12), dp(6));
-        dayRow.setGravity(Gravity.CENTER_VERTICAL);
-        for (String d : days) {
-            TextView chip = new TextView(this);
-            chip.setText(dayLabel(d));
-            chip.setTextSize(14);
-            chip.setTypeface(Typeface.DEFAULT_BOLD);
-            chip.setGravity(Gravity.CENTER);
-            chip.setPadding(dp(16), dp(9), dp(16), dp(9));
-            chip.setOnClickListener(v -> { selectedDay = d; render(); });
-            LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(-2, -2);
-            lp.setMargins(dp(4), 0, dp(4), 0);
-            dayRow.addView(chip, lp);
-            dayButtons.add(chip);
-        }
-        dayScroller.addView(dayRow);
-        root.addView(dayScroller);
-
-        countText = new TextView(this);
-        countText.setTextColor(Color.rgb(75, 85, 99));
-        countText.setTextSize(13);
-        countText.setPadding(dp(20), dp(4), dp(20), dp(8));
-        root.addView(countText);
+        tabRow = new LinearLayout(this);
+        tabRow.setPadding(dp(10), dp(10), dp(10), dp(6));
+        tabRow.setGravity(Gravity.CENTER);
+        for (String tab : new String[]{"Schedule", "Bookmarks", "Dashboard"}) addTab(tab);
+        root.addView(tabRow);
 
         ScrollView scroll = new ScrollView(this);
         list = new LinearLayout(this);
@@ -116,51 +86,159 @@ public class MainActivity extends Activity {
         setContentView(root);
     }
 
-    private String dayLabel(String d) {
-        switch (d) {
-            case "Thu": return "Thu 9/3";
-            case "Fri": return "Fri 9/4";
-            case "Sat": return "Sat 9/5";
-            case "Sun": return "Sun 9/6";
-            default: return "All";
-        }
+    private void addTab(String name) {
+        TextView tab = text(name, 14, Color.rgb(91, 33, 182), true);
+        tab.setGravity(Gravity.CENTER);
+        tab.setPadding(dp(10), dp(10), dp(10), dp(10));
+        tab.setOnClickListener(v -> { selectedView = name; render(); });
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(0, -2, 1);
+        lp.setMargins(dp(3), 0, dp(3), 0);
+        tabRow.addView(tab, lp);
     }
 
     private void render() {
+        styleTabs();
         list.removeAllViews();
+        if (selectedView.equals("Schedule")) renderSchedule();
+        else if (selectedView.equals("Bookmarks")) renderBookmarks();
+        else renderDashboard();
+    }
+
+    private void styleTabs() {
+        for (int i = 0; i < tabRow.getChildCount(); i++) {
+            TextView tv = (TextView) tabRow.getChildAt(i);
+            boolean on = tv.getText().toString().startsWith(selectedView);
+            if (tv.getText().toString().startsWith("Bookmarks")) tv.setText("Bookmarks " + bookmarks.size());
+            tv.setTextColor(on ? Color.WHITE : Color.rgb(91, 33, 182));
+            tv.setBackground(round(on ? Color.rgb(91, 33, 182) : Color.WHITE, dp(22), Color.rgb(221, 214, 254), dp(1)));
+        }
+    }
+
+    private void renderSchedule() {
+        renderDayChips();
+        renderFilterPanel();
+        countText = text("", 13, Color.rgb(75, 85, 99), false);
+        countText.setPadding(dp(6), dp(4), dp(6), dp(8));
+        list.addView(countText);
+        ArrayList<Session> shown = filteredSessions();
+        countText.setText(shown.size() + " of " + allSessions.size() + " sessions shown");
+        renderGrouped(shown);
+    }
+
+    private void renderDayChips() {
+        HorizontalScrollView scroller = new HorizontalScrollView(this);
+        scroller.setHorizontalScrollBarEnabled(false);
+        dayRow = new LinearLayout(this);
+        dayRow.setPadding(0, dp(12), 0, dp(6));
+        dayButtons.clear();
+        for (String d : days) {
+            TextView chip = text(dayLabel(d), 14, Color.rgb(91, 33, 182), true);
+            chip.setGravity(Gravity.CENTER);
+            chip.setPadding(dp(16), dp(9), dp(16), dp(9));
+            chip.setOnClickListener(v -> { selectedDay = d; render(); });
+            LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(-2, -2);
+            lp.setMargins(dp(4), 0, dp(4), 0);
+            dayRow.addView(chip, lp);
+            dayButtons.add(chip);
+        }
+        scroller.addView(dayRow);
+        list.addView(scroller);
+        styleDayChips();
+    }
+
+    private void styleDayChips() {
         for (TextView chip : dayButtons) {
             boolean on = chip.getText().toString().startsWith(selectedDay) || (selectedDay.equals("All") && chip.getText().toString().equals("All"));
             chip.setTextColor(on ? Color.WHITE : Color.rgb(91, 33, 182));
-            chip.setBackground(round(on ? Color.rgb(91, 33, 182) : Color.WHITE, dp(22), on ? 0 : Color.rgb(221, 214, 254), on ? 0 : dp(1)));
+            chip.setBackground(round(on ? Color.rgb(91, 33, 182) : Color.WHITE, dp(22), Color.rgb(221, 214, 254), on ? 0 : dp(1)));
         }
+    }
 
-        int shown = 0;
+    private void renderFilterPanel() {
+        LinearLayout panel = new LinearLayout(this);
+        panel.setOrientation(LinearLayout.VERTICAL);
+        panel.setPadding(dp(12), dp(12), dp(12), dp(12));
+        panel.setBackground(round(Color.WHITE, dp(18), Color.rgb(221, 214, 254), dp(1)));
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(-1, -2);
+        lp.setMargins(0, 0, 0, dp(10));
+        list.addView(panel, lp);
+        filterToggle = text((filtersOpen ? "▾" : "▸") + " Filters", 16, Color.rgb(76, 29, 149), true);
+        filterToggle.setOnClickListener(v -> { filtersOpen = !filtersOpen; render(); });
+        panel.addView(filterToggle);
+        if (!filtersOpen) return;
+        filterBody = panel;
+        addSpinner("Location", unique("location"), locationFilter, value -> { locationFilter = value; render(); });
+        addSpinner("Track", unique("track"), trackFilter, value -> { trackFilter = value; render(); });
+        addSpinner("Type / Tag", unique("type"), typeFilter, value -> { typeFilter = value; render(); });
+        CheckBox cb = new CheckBox(this);
+        cb.setText("Bookmarked only"); cb.setChecked(bookmarkedOnly);
+        cb.setOnCheckedChangeListener((b, checked) -> { bookmarkedOnly = checked; render(); });
+        panel.addView(cb);
+        Button clear = new Button(this);
+        clear.setText("Clear filters");
+        clear.setOnClickListener(v -> { selectedDay = "All"; locationFilter = trackFilter = typeFilter = query = ""; bookmarkedOnly = false; render(); });
+        panel.addView(clear);
+    }
+
+    private interface Pick { void set(String value); }
+    private void addSpinner(String label, ArrayList<String> options, String selected, Pick pick) {
+        filterBody.addView(text(label, 13, Color.rgb(75,85,99), true));
+        Spinner sp = new Spinner(this);
+        ArrayList<String> vals = new ArrayList<>(); vals.add("All"); vals.addAll(options);
+        ArrayAdapter<String> ad = new ArrayAdapter<>(this, android.R.layout.simple_spinner_dropdown_item, vals);
+        sp.setAdapter(ad);
+        sp.setSelection(Math.max(0, vals.indexOf(selected.isEmpty() ? "All" : selected)));
+        sp.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            boolean first = true;
+            public void onItemSelected(AdapterView<?> p, View v, int pos, long id) { if (first) { first = false; return; } pick.set(pos == 0 ? "" : vals.get(pos)); }
+            public void onNothingSelected(AdapterView<?> p) {}
+        });
+        filterBody.addView(sp);
+    }
+
+    private void renderBookmarks() {
+        TextView h = text("Your bookmarks", 22, Color.rgb(31, 41, 55), true);
+        h.setPadding(dp(6), dp(14), dp(6), dp(8));
+        list.addView(h);
+        Button clear = new Button(this);
+        clear.setText("Clear all bookmarks");
+        clear.setOnClickListener(v -> new AlertDialog.Builder(this).setMessage("Remove all bookmarks?").setPositiveButton("Clear", (d,w) -> { bookmarks.clear(); saveBookmarks(); render(); }).setNegativeButton("Cancel", null).show());
+        list.addView(clear);
+        renderGrouped(bookmarkedSessions());
+    }
+
+    private void renderDashboard() {
+        ArrayList<Session> saved = bookmarkedSessions();
+        list.addView(text("Dashboard", 24, Color.rgb(31, 41, 55), true));
+        stat("Bookmarked sessions", String.valueOf(saved.size()));
+        stat("Days planned", String.valueOf(uniqueDates(saved).size()));
+        stat("Scheduled hours", String.format(Locale.US, "%.1f", totalHours(saved)));
+        TextView h = text("Personal agenda", 20, Color.rgb(31, 41, 55), true);
+        h.setPadding(0, dp(18), 0, dp(6));
+        list.addView(h);
+        renderGrouped(saved);
+    }
+
+    private void stat(String label, String value) {
+        TextView tv = text(value + "\n" + label, 16, Color.rgb(91, 33, 182), true);
+        tv.setGravity(Gravity.CENTER);
+        tv.setPadding(dp(10), dp(12), dp(10), dp(12));
+        tv.setBackground(round(Color.WHITE, dp(18), Color.rgb(221, 214, 254), dp(1)));
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(-1, -2); lp.setMargins(0, dp(8), 0, 0);
+        list.addView(tv, lp);
+    }
+
+    private void renderGrouped(ArrayList<Session> sessions) {
+        if (sessions.isEmpty()) { empty("No sessions to show."); return; }
         String lastDate = "";
-        for (Session s : allSessions) {
-            if (!selectedDay.equals("All") && !s.day.equals(selectedDay)) continue;
-            if (!query.isEmpty() && !haystack(s).contains(query)) continue;
-            shown++;
+        for (Session s : sessions) {
             if (!s.date.equals(lastDate)) {
                 lastDate = s.date;
-                TextView h = new TextView(this);
-                h.setText(s.day + ", " + s.date);
-                h.setTextColor(Color.rgb(31, 41, 55));
-                h.setTextSize(18);
-                h.setTypeface(Typeface.DEFAULT_BOLD);
+                TextView h = text(s.day + ", " + s.date, 18, Color.rgb(31, 41, 55), true);
                 h.setPadding(dp(6), dp(16), dp(6), dp(8));
                 list.addView(h);
             }
             list.addView(card(s));
-        }
-        countText.setText(shown + " of " + allSessions.size() + " sessions shown");
-        if (shown == 0) {
-            TextView empty = new TextView(this);
-            empty.setText("No sessions match your filters.");
-            empty.setGravity(Gravity.CENTER);
-            empty.setTextSize(16);
-            empty.setTextColor(Color.rgb(107, 114, 128));
-            empty.setPadding(0, dp(60), 0, 0);
-            list.addView(empty, new LinearLayout.LayoutParams(-1, -2));
         }
     }
 
@@ -169,102 +247,59 @@ public class MainActivity extends Activity {
         card.setOrientation(LinearLayout.VERTICAL);
         card.setPadding(dp(16), dp(14), dp(16), dp(14));
         card.setBackground(round(Color.WHITE, dp(18), Color.rgb(229, 231, 235), dp(1)));
-        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(-1, -2);
-        lp.setMargins(0, 0, 0, dp(10));
-        card.setLayoutParams(lp);
-
-        TextView time = new TextView(this);
-        String timeText = s.start + (s.end.isEmpty() ? "" : " – " + s.end);
-        time.setText(timeText + "  •  " + s.location);
-        time.setTextColor(Color.rgb(124, 58, 237));
-        time.setTextSize(13);
-        time.setTypeface(Typeface.DEFAULT_BOLD);
-        card.addView(time);
-
-        TextView title = new TextView(this);
-        title.setText(s.title);
-        title.setTextColor(Color.rgb(17, 24, 39));
-        title.setTextSize(17);
-        title.setTypeface(Typeface.DEFAULT_BOLD);
-        title.setPadding(0, dp(5), 0, dp(5));
-        card.addView(title);
-
-        String meta = joinNonEmpty(s.track, s.types);
-        if (!meta.isEmpty()) addSmall(card, meta, Color.rgb(75, 85, 99));
-        if (!s.guests.isEmpty()) addSmall(card, "Guests: " + s.guests, Color.rgb(75, 85, 99));
-        if (!s.description.isEmpty()) {
-            TextView desc = new TextView(this);
-            desc.setText(s.description);
-            desc.setTextColor(Color.rgb(55, 65, 81));
-            desc.setTextSize(13);
-            desc.setPadding(0, dp(8), 0, 0);
-            desc.setMaxLines(5);
-            card.addView(desc);
-        }
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(-1, -2); lp.setMargins(0, 0, 0, dp(10)); card.setLayoutParams(lp);
+        card.addView(text(s.start + (s.end.isEmpty() ? "" : " – " + s.end) + "  •  " + s.location, 13, Color.rgb(124, 58, 237), true));
+        TextView title = text(s.title, 17, Color.rgb(17, 24, 39), true); title.setPadding(0, dp(5), 0, dp(5)); card.addView(title);
+        String meta = joinNonEmpty(s.track, s.types, s.guests.isEmpty() ? "" : "Guests: " + s.guests);
+        if (!meta.isEmpty()) card.addView(text(meta, 13, Color.rgb(75, 85, 99), false));
+        if (!s.description.isEmpty()) { TextView desc = text(s.description, 13, Color.rgb(55, 65, 81), false); desc.setPadding(0, dp(8), 0, 0); desc.setMaxLines(4); card.addView(desc); }
+        LinearLayout actions = new LinearLayout(this);
+        Button save = new Button(this); save.setText(bookmarks.contains(s.id) ? "Saved" : "Save"); save.setOnClickListener(v -> { if (bookmarks.contains(s.id)) bookmarks.remove(s.id); else bookmarks.add(s.id); saveBookmarks(); render(); });
+        Button details = new Button(this); details.setText("Details"); details.setOnClickListener(v -> showDetails(s));
+        actions.addView(save, new LinearLayout.LayoutParams(0, -2, 1)); actions.addView(details, new LinearLayout.LayoutParams(0, -2, 1));
+        card.addView(actions);
         return card;
     }
 
-    private void addSmall(LinearLayout parent, String text, int color) {
-        TextView tv = new TextView(this);
-        tv.setText(text);
-        tv.setTextColor(color);
-        tv.setTextSize(13);
-        tv.setPadding(0, dp(2), 0, 0);
-        parent.addView(tv);
-    }
-
-    private String haystack(Session s) {
-        return (s.title + " " + s.date + " " + s.day + " " + s.start + " " + s.end + " " + s.location + " " + s.track + " " + s.types + " " + s.guests + " " + s.description).toLowerCase(Locale.US);
-    }
-
-    private String joinNonEmpty(String... values) {
-        ArrayList<String> out = new ArrayList<>();
-        for (String v : values) if (v != null && !v.trim().isEmpty()) out.add(v.trim());
-        return android.text.TextUtils.join(" • ", out);
-    }
-
-    private void loadSchedule() {
-        try (BufferedReader br = new BufferedReader(new InputStreamReader(getAssets().open("matsuricon_2026_schedule.csv"), StandardCharsets.UTF_8))) {
-            String header = br.readLine();
-            String line;
-            while ((line = br.readLine()) != null) {
-                ArrayList<String> c = parseCsv(line);
-                if (c.size() < 15) continue;
-                Session s = new Session();
-                s.title = c.get(1); s.date = c.get(2); s.day = c.get(3); s.start = c.get(4); s.end = c.get(5);
-                s.location = c.get(9); s.track = c.get(10); s.types = c.get(11); s.guests = c.get(12);
-                s.status = c.get(13); s.description = c.get(14);
-                allSessions.add(s);
-            }
-        } catch (Exception e) {
-            Toast.makeText(this, "Could not load schedule: " + e.getMessage(), Toast.LENGTH_LONG).show();
+    private ArrayList<Session> filteredSessions() {
+        ArrayList<Session> out = new ArrayList<>();
+        for (Session s : allSessions) {
+            if (!selectedDay.equals("All") && !s.day.equals(selectedDay)) continue;
+            if (!query.isEmpty() && !haystack(s).contains(query)) continue;
+            if (!locationFilter.isEmpty() && !s.location.equals(locationFilter)) continue;
+            if (!trackFilter.isEmpty() && !s.track.equals(trackFilter)) continue;
+            if (!typeFilter.isEmpty() && !Arrays.asList(s.types.split(";\\s*|,\\s*")).contains(typeFilter)) continue;
+            if (bookmarkedOnly && !bookmarks.contains(s.id)) continue;
+            out.add(s);
         }
-    }
-
-    private ArrayList<String> parseCsv(String line) {
-        ArrayList<String> out = new ArrayList<>();
-        StringBuilder cur = new StringBuilder();
-        boolean inQuotes = false;
-        for (int i = 0; i < line.length(); i++) {
-            char ch = line.charAt(i);
-            if (ch == '"') {
-                if (inQuotes && i + 1 < line.length() && line.charAt(i + 1) == '"') { cur.append('"'); i++; }
-                else inQuotes = !inQuotes;
-            } else if (ch == ',' && !inQuotes) {
-                out.add(cur.toString()); cur.setLength(0);
-            } else cur.append(ch);
-        }
-        out.add(cur.toString());
         return out;
     }
 
-    private GradientDrawable round(int fill, int radius, int strokeColor, int strokeWidth) {
-        GradientDrawable g = new GradientDrawable();
-        g.setColor(fill);
-        g.setCornerRadius(radius);
-        if (strokeWidth > 0) g.setStroke(strokeWidth, strokeColor);
-        return g;
-    }
+    private ArrayList<Session> bookmarkedSessions() { ArrayList<Session> out = new ArrayList<>(); for (Session s : allSessions) if (bookmarks.contains(s.id)) out.add(s); return out; }
+    private void saveBookmarks() { prefs.edit().putStringSet("bookmarks", new HashSet<>(bookmarks)).apply(); }
+    private void showDetails(Session s) { new AlertDialog.Builder(this).setTitle(s.title).setMessage(s.day + " " + s.date + "\n" + s.start + " – " + s.end + "\n" + joinNonEmpty(s.location, s.track, s.types, s.guests) + "\n\n" + (s.description.isEmpty() ? "No description provided." : s.description)).setPositiveButton("OK", null).show(); }
+    private void empty(String msg) { TextView e = text(msg, 16, Color.rgb(107, 114, 128), false); e.setGravity(Gravity.CENTER); e.setPadding(0, dp(40), 0, 0); list.addView(e, new LinearLayout.LayoutParams(-1, -2)); }
+    private TextView text(String s, int size, int color, boolean bold) { TextView tv = new TextView(this); tv.setText(s); tv.setTextSize(size); tv.setTextColor(color); if (bold) tv.setTypeface(Typeface.DEFAULT_BOLD); return tv; }
+    private String dayLabel(String d) { if (d.equals("Thu")) return "Thu 9/3"; if (d.equals("Fri")) return "Fri 9/4"; if (d.equals("Sat")) return "Sat 9/5"; if (d.equals("Sun")) return "Sun 9/6"; return "All"; }
+    private String haystack(Session s) { return (s.title + " " + s.date + " " + s.day + " " + s.start + " " + s.end + " " + s.location + " " + s.track + " " + s.types + " " + s.guests + " " + s.description).toLowerCase(Locale.US); }
+    private String joinNonEmpty(String... values) { ArrayList<String> out = new ArrayList<>(); for (String v : values) if (v != null && !v.trim().isEmpty()) out.add(v.trim()); return TextUtils.join(" • ", out); }
+    private ArrayList<String> unique(String field) { TreeSet<String> set = new TreeSet<>(); for (Session s : allSessions) { String v = field.equals("location") ? s.location : field.equals("track") ? s.track : s.types; if (field.equals("type")) for (String t : v.split(";\\s*|,\\s*")) if (!t.trim().isEmpty()) set.add(t.trim()); else {} else if (!v.trim().isEmpty()) set.add(v.trim()); } return new ArrayList<>(set); }
+    private Set<String> uniqueDates(ArrayList<Session> ss) { HashSet<String> set = new HashSet<>(); for (Session s : ss) set.add(s.date); return set; }
+    private double totalHours(ArrayList<Session> ss) { double h = 0; SimpleDateFormat f = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss", Locale.US); for (Session s : ss) try { if (!s.endIso.isEmpty()) h += Math.max(0, f.parse(s.endIso).getTime() - f.parse(s.startIso).getTime()) / 3600000.0; } catch(Exception ignored) {} return h; }
 
+    private void loadSchedule() {
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(getAssets().open("matsuricon_2026_schedule.csv"), StandardCharsets.UTF_8))) {
+            br.readLine(); String line;
+            while ((line = br.readLine()) != null) {
+                ArrayList<String> c = parseCsv(line); if (c.size() < 16) continue;
+                Session s = new Session();
+                s.id = c.get(0); s.title = c.get(1); s.date = c.get(2); s.day = c.get(3); s.start = c.get(4); s.end = c.get(5); s.startIso = c.get(6); s.endIso = c.get(7);
+                s.location = c.get(9); s.track = c.get(10); s.types = c.get(11); s.guests = c.get(12); s.description = c.get(14); s.detailUrl = c.get(15);
+                allSessions.add(s);
+            }
+        } catch (Exception e) { Toast.makeText(this, "Could not load schedule: " + e.getMessage(), Toast.LENGTH_LONG).show(); }
+    }
+    private ArrayList<String> parseCsv(String line) { ArrayList<String> out = new ArrayList<>(); StringBuilder cur = new StringBuilder(); boolean q = false; for (int i=0;i<line.length();i++) { char ch=line.charAt(i); if (ch=='\"') { if (q && i+1<line.length() && line.charAt(i+1)=='\"') { cur.append('\"'); i++; } else q=!q; } else if (ch==',' && !q) { out.add(cur.toString()); cur.setLength(0); } else cur.append(ch); } out.add(cur.toString()); return out; }
+    private GradientDrawable round(int fill, int radius, int strokeColor, int strokeWidth) { GradientDrawable g = new GradientDrawable(); g.setColor(fill); g.setCornerRadius(radius); if (strokeWidth > 0) g.setStroke(strokeWidth, strokeColor); return g; }
     private int dp(int v) { return (int) (v * getResources().getDisplayMetrics().density + 0.5f); }
 }

@@ -11,6 +11,8 @@ Static, mobile-first website version of the Matsuricon 2026 schedule.
 - User dashboard with bookmark count, days planned, scheduled hours, and personal agenda
 - Bookmark export/import JSON
 - Docker/Nginx deployment
+- Backend API integration with static JSON fallback
+- Visit logging through `/api/visit` when run with Docker Compose
 
 ## Run locally
 
@@ -40,7 +42,7 @@ docker build -t your-registry/matsuricon-2026-web:latest .
 docker push your-registry/matsuricon-2026-web:latest
 ```
 
-The container serves HTTP on internal port `80`. The included Docker Compose file maps it to host port `8080` so it will not conflict with anything already using host port 80.
+The single web container serves HTTP on internal port `80`. For backend/API/logging support, use Docker Compose below. The included Compose file maps the website to host port `8080` so it will not conflict with anything already using host port 80.
 
 ## Docker Compose
 

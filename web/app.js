@@ -32,8 +32,16 @@ let filters = { day: '', search: '', location: '', track: '', type: '', bookmark
 init();
 
 async function init() {
-  const res = await fetch('assets/schedule.json');
-  const data = await res.json();
+  let data;
+  try {
+    const res = await fetch('/api/schedule');
+    if (!res.ok) throw new Error('API unavailable');
+    data = await res.json();
+  } catch {
+    const res = await fetch('assets/schedule.json');
+    data = await res.json();
+  }
+  logVisit();
   sessions = data.sessions.map(normalizeSession).sort((a, b) => a.startDate - b.startDate || a.title.localeCompare(b.title));
   buildFilterOptions();
   bindEvents();
@@ -241,6 +249,14 @@ async function importBookmarks(event) {
     saveBookmarks(); renderAll(); switchView('dashboard');
   } catch (err) { alert(err.message); }
   event.target.value = '';
+}
+
+function logVisit() {
+  try {
+    const body = JSON.stringify({ path: location.pathname, width: innerWidth, referrer: document.referrer || '' });
+    if (navigator.sendBeacon) navigator.sendBeacon('/api/visit', new Blob([body], { type: 'application/json' }));
+    else fetch('/api/visit', { method: 'POST', body, headers: { 'Content-Type': 'application/json' }, keepalive: true }).catch(() => {});
+  } catch {}
 }
 
 function durationHours(s) {

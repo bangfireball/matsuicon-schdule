@@ -1,8 +1,23 @@
 services:
+  matsuricon-backend:
+    build:
+      context: ..
+      dockerfile: backend/Dockerfile
+    image: matsuricon-2026-backend
+    container_name: matsuricon-backend
+    restart: unless-stopped
+    volumes:
+      - matsuricon-backend-logs:/logs
+
   matsuricon-web:
     build: .
     image: matsuricon-2026-web
     container_name: matsuricon-web
     restart: unless-stopped
+    depends_on:
+      - matsuricon-backend
     ports:
       - "8080:80"
+
+volumes:
+  matsuricon-backend-logs:
